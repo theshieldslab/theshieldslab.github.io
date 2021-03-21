@@ -9,51 +9,15 @@ redirect_from:
 
 {% include base_path %}
 
-Education
-======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+### Join the lab!
 
-Work experience
-======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+We are really interested in aspiring microbiologists who want to join the team. A typical undergraduate committment would be 8-12 hours of lab work each week. 
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+Types of undergraduate projects:
+1) Functional genomics screens
+2) Gene mutagenesis and characterization of mutant
+3) Analysis of pre-exisiting data (e.g. RNAseq, genomic sequencing, etc)
 
-Publications
-======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+### The PI - Robert Shields
+
+I was born in South Africa but raised in the county of Yorkshire in England. I earned my PhD in Microbiology at Newcastle University (United Kingdom) in Nick Jakubovics lab, where I worked on extracellular DNA in microbial biofilms, and potential control of biofilms with eDNA-degrading enzymes. In August 2014 I moved to the USA and did a postdoc in the lab of Bob Burne at the University of Florida, working on cell-cell communication and regulation of gene expression in Streptococcus mutans. I was hired as a Research Assistant Professor in the Department of Oral Biology at UF in July 2017.
