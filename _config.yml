@@ -82,8 +82,7 @@ analytics:
 author:
   name             : "Your Sidebar Name"
   avatar           : "Arkansas_State_University_Seal.png"
-  bio              : "The Shields Lab in the Department of Biological Sciences at Arkansas State University investigates Streptococcus mutans physiology using functional genomics techniques (Tn-seq, CRISPRi, etc). The end goal is to develop novel antimicrobials to kill S. mutans.
-  S. mutans infections are a significant problem in dental health, as they help cause tooth decay."
+  bio              : "The Shields Lab in the Department of Biological Sciences at Arkansas State University investigates Streptococcus mutans physiology using functional genomics techniques (Tn-seq, CRISPRi, etc). The end goal is to develop novel antimicrobials to kill S. mutans. S. mutans infections are a significant problem in dental health, as they help cause tooth decay."
   location         : "Location"
   employer         :
   pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
