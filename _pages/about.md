@@ -12,7 +12,11 @@ The Shields Lab in the [Department of Biological Sciences](http://www.astate.edu
 
 # News
 
-## March 2020
+### September 2020
+
+Rob's collaborator [Dr. Kelly Rice](http://microcell.ufl.edu/people/faculty-directory/rice/) was awarded a new grant from NASA entitled "Assessing the impact of Agr Quorum Sensing on Staphylococcus aureus Physiology in the Space Flight Environment". [See here for a link to the award announcement](https://science.nasa.gov/science-news/biological-physical/SpaceBiologyProgramNRAAwardsSep2020). We will be helping with Tn-seq, using Staph aureus Tn-seq libraries that will be sent to the International Space Station!
+
+### March 2020
 
 Rob was one of five junior faculty to be awarded a Colgate Award for Research Excellence (CARE).  The CARE award provides $30,000 of support for 1 year.
 
