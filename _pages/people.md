@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-<img src='/images/500x300.png'>
+<img src='/images/IMG_0447.JPG'>
 
 ### Join the lab!
 
