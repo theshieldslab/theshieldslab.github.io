@@ -9,6 +9,8 @@ redirect_from:
 
 {% include base_path %}
 
+<img src='/images/500x300.png'>
+
 ### Join the lab!
 
 We are really interested in aspiring microbiologists who want to join the team. A typical undergraduate committment would be 8-12 hours of lab work each week. For students interested in this, please drop by my office (Room X Lab Sciences East) or enquire by email.
