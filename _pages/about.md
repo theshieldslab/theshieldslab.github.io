@@ -1,6 +1,5 @@
 ---
 permalink: /
-title: "academicpages is a ready-to-fork GitHub Pages template for academic personal websites"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -18,7 +17,7 @@ Rob's collaborator [Dr. Kelly Rice](http://microcell.ufl.edu/people/faculty-dire
 
 ### March 2020
 
-Rob was one of five junior faculty to be awarded a Colgate Award for Research Excellence (CARE).  The CARE award provides $30,000 of support for 1 year.
+Rob was one of five junior faculty to be awarded a [Colgate Award for Research Excellence (CARE)](https://www.colgateprofessional.com/care-program/information).  The CARE award provides $30,000 of support for 1 year.
 
 “The CARE Program fosters the development of junior faculty by providing seed research funding to emerging leaders in academia at a time in their career path when it is most needed,” said Maria Ryan, vice president and chief dental officer, global technology at Colgate. “Every year, we look forward to meeting and supporting talented researchers in the early stages of their careers. We are pleased to fund innovative projects that promise to advance industry knowledge and perhaps even revolutionize the field of dentistry. On behalf of Colgate, sincere congratulations to the winners of this year’s grant awards.”
 
