@@ -48,7 +48,7 @@ staticman:
         format           : "iso8601" # "iso8601" (default), "timestamp-seconds", "timestamp-milliseconds"
 atom_feed:
   path                   : # blank (default) uses feed.xml
-google_maps_javascript_api_key: "AIzaSyD0EO0vMe5wZLTYfqMrmaeazZgLDPKiS-Q" 
+google_maps_javascript_api_key: "AIzaSyB35JlBr1zFKEmvMkD5CmjjrzI3bUCURJE" 
 
 # SEO Related
 google_site_verification :
