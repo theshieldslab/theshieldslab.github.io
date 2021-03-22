@@ -1,11 +1,11 @@
 ---
+location:
+    latitude: 48.8587741
+    longitude: 2.2074741
 layout: archive
 permalink: /join/
 title: "Join Us!"
 author_profile: true
-location:
-    latitude: 48.8587741
-    longitude: 2.2074741
 ---
 
 We are really interested in aspiring microbiologists who want to join the team. A typical undergraduate committment would be 8-12 hours of lab work each week. For students interested in this, please drop by my office (Room X Lab Sciences East) or enquire by email.
