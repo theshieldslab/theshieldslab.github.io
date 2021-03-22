@@ -18,7 +18,7 @@ I was born in South Africa but raised in the county of Yorkshire in England. I e
   Some text.
   </div>
   <div class="col-md-4" markdown="1">
-  <!-- ![Alt Text](../img/folder/blah.jpg) -->
-  <img height="600px" class="center-block" src="../img/folder/blah.jpg">
+  <!-- ![Alt Text](/images/RCSPortrait.png) -->
+  <img height="600px" class="center-block" src="/images/RCSPortrait.png">
   </div>
 </div>
