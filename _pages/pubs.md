@@ -7,7 +7,7 @@ author_profile: true
 
 <script type='text/javascript' src='https://d1bxh8uas1mnw7.cloudfront.net/assets/embed.js'></script>
 
-### 2020 ---
+### 2020
 ---
 **Repurposing the *Streptococcus mutans* CRISPR-Cas9 system to understand essential gene function**\
 Shields RC, Walker AR, Maricic N, Chakraborty B, Underhill SAM, & Burne RA\
@@ -18,6 +18,7 @@ Shields RC, Kim JN, Ahn SJ, & Burne RA\
 *Microbiology* <div class='altmetric-embed' data-doi="10.1099/mic.0.000887"></div>
 
 ### 2019
+---
 Underhill SAM, Shields RC, Burne RA, & Hagen SJ (2019) Carbohydrate and PepO control bimodality in competence development by Streptococcus mutans. Molecular Microbiology. 112(5): 1388-1402. PubMed 
 
 Shields RC, Kaspar JR, Underhill SAM, Lee K, & Burne RA (2019) Fluorescence tools adapted for monitoring the behaviors of Streptococcus species. Applied and Environmental Microbiology. Epub ahead of print. PubMed
