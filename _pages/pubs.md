@@ -26,19 +26,19 @@ Underhill SAM, Shields RC, Burne RA, & Hagen SJ\
 <div class='altmetric-embed' data-doi="10.1111/mmi.14367"></div>
 
 **Fluorescence tools adapted for monitoring the behaviors of *Streptococcus* species**\
-Shields RC, Kaspar JR, Underhill SAM, Lee K, & Burne RA\ 
+Shields RC, Kaspar JR, Underhill SAM, Lee K, & Burne RA\
 *Applied and Environmental Microbiology*
 <div class='altmetric-embed' data-doi="10.1128/AEM.00620-19"></div>
 
 **The bare necessities: uncovering essential and condition-critical genes with transposon sequencing**\
-Shields, RC & Jensen, PA\ 
+Shields, RC & Jensen, PA\
 *Molecular Oral Microbiology*
 <div class='altmetric-embed' data-doi="10.1111/omi.12256"></div>
 
 ### 2018
 ---
 **Intracellular signaling by the *comRS* system in *Streptococcus mutans* genetic competence**\
-Underhill, SAM, Shields, RC, Kaspar, JR, Haider, M, Burne, RA, & Hagen, SJ\ 
+Underhill, SAM, Shields, RC, Kaspar, JR, Haider, M, Burne, RA, & Hagen, SJ\
 *mSphere*
 <div class='altmetric-embed' data-doi="10.1128/mSphere.00444-18"></div>
 
