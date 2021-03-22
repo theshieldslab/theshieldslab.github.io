@@ -17,3 +17,4 @@ Our lab is located at the following location on the Arkansas State University ca
 
 ### Wet-lab Area
 
+<img src='/images/IMG_0447.JPG'>
