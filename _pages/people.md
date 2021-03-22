@@ -15,10 +15,10 @@ I was born in South Africa but raised in the county of Yorkshire in England. I e
 
 <div class="row">
   <div class="col-md-8" markdown="1">
-  Some text.
+  I was born in South Africa but raised in the county of Yorkshire in England. I earned my PhD in Microbiology at Newcastle University (United Kingdom) in Nick Jakubovics lab, where I worked on extracellular DNA in microbial biofilms, and potential control of biofilms with eDNA-degrading enzymes. 
   </div>
   <div class="col-md-4" markdown="1">
   <!-- ![Alt Text](/images/RCSPortrait.png) -->
-  <img height="600px" class="center-block" src="/images/RCSPortrait.png">
+  <img height="300px" class="center-block" src="/images/RCSPortrait.png">
   </div>
 </div>
