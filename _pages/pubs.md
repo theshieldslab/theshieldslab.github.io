@@ -7,10 +7,8 @@ author_profile: true
 
 <script type='text/javascript' src='https://d1bxh8uas1mnw7.cloudfront.net/assets/embed.js'></script>
 
-<div class='altmetric-embed' data-badge-type='donut' data-doi="10.1371/journal.ppat.1008344"></div>
-
 ### 2020
-Shields RC, Walker AR, Maricic N, Chakraborty B, Underhill SAM, & Burne RA (2020) Repurposing the Streptococcus mutans CRISPR-Cas9 system to understand essential gene function. PLOS Pathogens. 16(30: e1008344. PubMed 
+Shields RC, Walker AR, Maricic N, Chakraborty B, Underhill SAM, & Burne RA (2020) Repurposing the Streptococcus mutans CRISPR-Cas9 system to understand essential gene function. PLOS Pathogens. 16(30: e1008344. PubMed <div class='altmetric-embed' data-badge-type='donut' data-doi="10.1371/journal.ppat.1008344"></div>
 
 Shields RC, Kim JN, Ahn SJ, & Burne RA (2020) Peptides encoded in the Streptococcus mutans RcrRPQ operon are essential for thermotolerance. Microbiology. micro000887. PubMed
 
