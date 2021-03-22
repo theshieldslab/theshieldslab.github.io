@@ -11,8 +11,7 @@ author_profile: true
 ---
 **Repurposing the *Streptococcus mutans* CRISPR-Cas9 system to understand essential gene function**\
 Shields RC, Walker AR, Maricic N, Chakraborty B, Underhill SAM, & Burne RA\
-*PLOS Pathogens* 
-<div class='altmetric-embed' data-doi="10.1371/journal.ppat.1008344"></div>
+*PLOS Pathogens* <div class='altmetric-embed' data-doi="10.1371/journal.ppat.1008344"></div>
 
 **Peptides encoded in the *Streptococcus mutans RcrRPQ* operon are essential for thermotolerance**\
 Shields RC, Kim JN, Ahn SJ, & Burne RA\
@@ -21,11 +20,17 @@ Shields RC, Kim JN, Ahn SJ, & Burne RA\
 
 ### 2019
 ---
-Underhill SAM, Shields RC, Burne RA, & Hagen SJ (2019) Carbohydrate and PepO control bimodality in competence development by Streptococcus mutans. Molecular Microbiology. 112(5): 1388-1402. PubMed 
+**Carbohydrate and PepO control bimodality in competence development by *Streptococcus mutans***\
+Underhill SAM, Shields RC, Burne RA, & Hagen SJ\
+*Molecular Microbiology*
 
-Shields RC, Kaspar JR, Underhill SAM, Lee K, & Burne RA (2019) Fluorescence tools adapted for monitoring the behaviors of Streptococcus species. Applied and Environmental Microbiology. Epub ahead of print. PubMed
+**Fluorescence tools adapted for monitoring the behaviors of *Streptococcus* species**\
+Shields RC, Kaspar JR, Underhill SAM, Lee K, & Burne RA\ 
+*Applied and Environmental Microbiology*
 
-Shields, RC & Jensen, PA (2019) The bare necessities: uncovering essential and condition-critical genes with transposon sequencing. Molecular Oral Microbiology. 34(2):39-50. PubMed
+**The bare necessities: uncovering essential and condition-critical genes with transposon sequencing**\
+Shields, RC & Jensen, PA\ 
+*Molecular Oral Microbiology*
 
 ### 2018
 ---
