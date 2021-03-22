@@ -3,8 +3,7 @@ layout: archive
 permalink: /join/
 title: "Join Us!"
 author_profile: true
-url: http://google.com
-  location:
+location:
     latitude: 48.8587741
     longitude: 2.2074741
 ---
