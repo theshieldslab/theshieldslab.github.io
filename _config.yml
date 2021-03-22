@@ -116,9 +116,11 @@ author:
   xing             :
   youtube          :
   wikipedia        :
-  image           : "Colgate.png"
+  image            : "Colgate.png"
 
-
+sidebar:
+  image: "Colgate.png"
+  
 # Reading Files
 include:
   - .htaccess
