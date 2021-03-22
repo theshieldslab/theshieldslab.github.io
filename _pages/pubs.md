@@ -10,7 +10,8 @@ author_profile: true
 ---
 **Repurposing the *Streptococcus mutans* CRISPR-Cas9 system to understand essential gene function**\
 Shields RC, Walker AR, Maricic N, Chakraborty B, Underhill SAM, & Burne RA\
-*PLOS Pathogens* <div class='altmetric-embed' data-doi="10.1371/journal.ppat.1008344"></div>
+*PLOS Pathogens* 
+<div class='altmetric-embed' data-doi="10.1371/journal.ppat.1008344"></div>
 
 **Peptides encoded in the *Streptococcus mutans RcrRPQ* operon are essential for thermotolerance**\
 Shields RC, Kim JN, Ahn SJ, & Burne RA\
@@ -22,19 +23,24 @@ Shields RC, Kim JN, Ahn SJ, & Burne RA\
 **Carbohydrate and PepO control bimodality in competence development by *Streptococcus mutans***\
 Underhill SAM, Shields RC, Burne RA, & Hagen SJ\
 *Molecular Microbiology*
+<div class='altmetric-embed' data-doi="10.1111/mmi.14367"></div>
 
 **Fluorescence tools adapted for monitoring the behaviors of *Streptococcus* species**\
 Shields RC, Kaspar JR, Underhill SAM, Lee K, & Burne RA\ 
 *Applied and Environmental Microbiology*
+<div class='altmetric-embed' data-doi="10.1128/AEM.00620-19"></div>
 
 **The bare necessities: uncovering essential and condition-critical genes with transposon sequencing**\
 Shields, RC & Jensen, PA\ 
 *Molecular Oral Microbiology*
+<div class='altmetric-embed' data-doi="10.1111/omi.12256"></div>
 
 ### 2018
 ---
-
-Underhill, SAM, Shields, RC, Kaspar, JR, Haider, M, Burne, RA, & Hagen, SJ (2018) Intracellular signaling by the comRS system in Streptococcus mutans genetic competence. mSphere. 3(5):e00444-18. PubMed
+**Intracellular signaling by the *comRS* system in *Streptococcus mutans* genetic competence**\
+Underhill, SAM, Shields, RC, Kaspar, JR, Haider, M, Burne, RA, & Hagen, SJ\ 
+*mSphere*
+<div class='altmetric-embed' data-doi="10.1128/mSphere.00444-18"></div>
 
 Kaspar, JR, Shields, RC, & Burne, RA (2018) Competence inhibition by the XrpA peptide encoded within the comX gene of Streptococcus mutans. Molecular Microbiology. 109(3):345-364. PubMed
 
