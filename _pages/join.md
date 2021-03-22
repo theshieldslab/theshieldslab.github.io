@@ -13,7 +13,7 @@ Types of undergraduate projects: 1) Functional genomics screens 2) Gene mutagene
 
 Our lab is located at the following location on the Arkansas State University campus:
 
-{% include google-map.html latitude=35.8401536 longitude=-90.6777637 zoom=15 %}
+{% include google-map.html latitude=35.8401536 longitude=-90.6777637 zoom=18 %}
 
 ### Wet-lab Area
 
