@@ -22,3 +22,12 @@ I was born in South Africa but raised in the county of Yorkshire in England. I e
   <img height="300px" class="center-block" src="/images/RCSPortrait.png">
   </div>
 </div>
+
+<div class="left">
+<p>Some explanation goes here</p>
+<p>Another example...</p>
+</div>
+<div class="right">
+<pre> // some code goes here </pre>
+<pre> // more example code goes here </pre>
+</div>
