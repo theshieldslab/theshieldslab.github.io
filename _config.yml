@@ -48,9 +48,7 @@ staticman:
         format           : "iso8601" # "iso8601" (default), "timestamp-seconds", "timestamp-milliseconds"
 atom_feed:
   path                   : # blank (default) uses feed.xml
-maps:
-  google:
-    api_key: AIzaSyD0EO0vMe5wZLTYfqMrmaeazZgLDPKiS-Q
+google_maps_javascript_api_key: "AIzaSyD0EO0vMe5wZLTYfqMrmaeazZgLDPKiS-Q" 
 
 # SEO Related
 google_site_verification :
@@ -268,7 +266,6 @@ plugins:
   - jekyll-gist
   - jekyll-feed
   - jekyll-redirect-from
-  - jekyll-maps
 # mimic GitHub Pages with --safe
 whitelist:
   - jekyll-paginate
