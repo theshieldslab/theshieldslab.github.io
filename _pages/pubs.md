@@ -6,16 +6,16 @@ author_profile: true
 ---
 
 <script type='text/javascript' src='https://d1bxh8uas1mnw7.cloudfront.net/assets/embed.js'></script>
-<div class='altmetric-embed' data-doi="10.1371/journal.ppat.1008344"></div>
 
 ### 2020
 ---
 **Repurposing the *Streptococcus mutans* CRISPR-Cas9 system to understand essential gene function**\
 Shields RC, Walker AR, Maricic N, Chakraborty B, Underhill SAM, & Burne RA\
-*PLOS Pathogens* <script type='text/javascript' src='https://d1bxh8uas1mnw7.cloudfront.net/assets/embed.js'></script> <div class='altmetric-embed' data-doi="10.1371/journal.ppat.1008344"></div>
+*PLOS Pathogens* 
+<div class='altmetric-embed' data-doi="10.1371/journal.ppat.1008344"></div>
 
 **Peptides encoded in the *Streptococcus mutans RcrRPQ* operon are essential for thermotolerance**\
-Shields RC, Kim JN, Ahn SJ, & Burne RA\ 
+Shields RC, Kim JN, Ahn SJ, & Burne RA\
 *Microbiology* 
 <div class='altmetric-embed' data-doi="10.1099/mic.0.000887"></div>
 
