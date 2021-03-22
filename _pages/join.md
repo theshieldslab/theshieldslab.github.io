@@ -1,7 +1,7 @@
 ---
 location:
-    latitude: 48.8587741
-    longitude: 2.2074741
+    latitude: 35.8
+    longitude: 90.7
 layout: archive
 permalink: /join/
 title: "Join Us!"
