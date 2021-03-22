@@ -9,7 +9,6 @@ author_profile: true
 
 ### 2020
 <hr style="border:2px solid gray"> </hr>
----
 **Repurposing the *Streptococcus mutans* CRISPR-Cas9 system to understand essential gene function**\
 Shields RC, Walker AR, Maricic N, Chakraborty B, Underhill SAM, & Burne RA\
 *PLOS Pathogens* <div class='altmetric-embed' data-doi="10.1371/journal.ppat.1008344"></div>
