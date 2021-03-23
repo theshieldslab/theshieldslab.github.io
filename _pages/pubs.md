@@ -15,7 +15,7 @@ Shields RC, Walker AR, Maricic N, Chakraborty B, Underhill SAM, & Burne RA\
 *PLOS Pathogens* 
 <div class='altmetric-embed' data-doi="10.1371/journal.ppat.1008344"></div>
 
-**Peptides encoded in the *Streptococcus mutans RcrRPQ* operon are essential for thermotolerance**\
+[**Peptides encoded in the *Streptococcus mutans RcrRPQ* operon are essential for thermotolerance**](https://www.microbiologyresearch.org/content/journal/micro/10.1099/mic.0.000887)\
 Shields RC, Kim JN, Ahn SJ, & Burne RA\
 *Microbiology* 
 <div class='altmetric-embed' data-doi="10.1099/mic.0.000887"></div>
