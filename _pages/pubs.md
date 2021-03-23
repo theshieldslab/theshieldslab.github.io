@@ -12,7 +12,7 @@ author_profile: true
 ---
 [**Repurposing the *Streptococcus mutans* CRISPR-Cas9 system to understand essential gene function**](https://journals.plos.org/plospathogens/article?id=10.1371/journal.ppat.1008344)\
 Shields RC, Walker AR, Maricic N, Chakraborty B, Underhill SAM, & Burne RA\
-*PLOS Pathogens* 
+[*PLOS Pathogens*](https://journals.plos.org/plospathogens/)
 <div class='altmetric-embed' data-doi="10.1371/journal.ppat.1008344"></div>
 
 [**Peptides encoded in the *Streptococcus mutans RcrRPQ* operon are essential for thermotolerance**](https://www.microbiologyresearch.org/content/journal/micro/10.1099/mic.0.000887)\
