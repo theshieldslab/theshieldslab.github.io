@@ -83,7 +83,7 @@ analytics:
 author:
   name             : 
   avatar           : "Arkansas_State_University_Seal.png"
-  bio              :
+  bio              : "Molecular microbiology lab interested in streptococcal genetics"
   location         : "Room 302 Lab Sciences East"
   employer         :
   pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
@@ -97,7 +97,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "theshieldslab"
+  github           :
   google_plus      :
   keybase          :
   instagram        :
@@ -110,16 +110,12 @@ author:
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "replacethistwitterhandle"
+  twitter          :
   vine             :
   weibo            :
   xing             :
   youtube          :
   wikipedia        :
-  image            : "Colgate.png"
-
-sidebar:
-  image: "Colgate.png"
   
 # Reading Files
 include:
