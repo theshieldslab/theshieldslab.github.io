@@ -4,6 +4,8 @@ permalink: /pubs/
 author_profile: true
 ---
 
+<img src='/images/journals.png'>
+
 <script type='text/javascript' src='https://d1bxh8uas1mnw7.cloudfront.net/assets/embed.js'></script>
 
 ### 2020
