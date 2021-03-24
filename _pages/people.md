@@ -5,7 +5,6 @@ author_profile: true
 redirect_from:
   - /resume
 ---
-
 ### Current Members
 ---
 **Robert Shields**\
