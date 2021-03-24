@@ -6,7 +6,7 @@ redirect_from:
   - /resume
 ---
 
-## Current Members
+### Current Members
 ---
 **Robert Shields**\
 *Principal Investigator*\
