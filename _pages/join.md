@@ -1,7 +1,6 @@
 ---
 layout: archive
 permalink: /join/
-title: "Join Us!"
 author_profile: true
 ---
 
