@@ -4,19 +4,26 @@ permalink: /column/
 title: "Column"
 author_profile: true
 ---
-
 <html>
  <head>
     <style>
     {
         box-sizing: border-box;
     }
-    /* Set additional styling options for the columns*/
+    /* Set additional styling options for the columns */
     .column {
     float: left;
+    }
+
+    /* Set width length for the left, right and middle columns */
+    .left {
     width: 30%;
     }
-     
+    
+    .right {
+    width: 70%;
+    }
+
     .row:after {
     content: "";
     display: table;
@@ -26,12 +33,12 @@ author_profile: true
  </head>
  <body>
     <div class="row">
-        <div class="column" style="background-color:#FFB695;">
+        <div class="column left" style="background-color:#FFB695;">
             <h2>Column 1</h2>
             <p>Data..</p>
         </div>
-        <div class="column" style="background-color:#96D1CD;">
-            <h2>Column 2</h2>
+        <div class="column right" style="background-color:#74C3E1;">
+            <h2>Column 3</h2>
             <p>Data..</p>
         </div>
     </div>
