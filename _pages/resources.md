@@ -5,12 +5,12 @@ permalink: /resources/
 author_profile: true
 ---
 
-Online Resources
-MicrobesOnline -  Genome browser with operon prediction, domain prediction,  homolog finder and much more
+**Online Resources**\
+[MicrobesOnline](http://www.microbesonline.org/) -  Genome browser with operon prediction, domain prediction,  homolog finder and much more
 
-Strains
+**Strains**\
 Addgene Plasmids
 
-Raw Data
-CRISPRi RNA-seq dataset
+**Raw Data**\
+CRISPRi RNA-seq dataset\
 mreCD RNA-seq dataset
