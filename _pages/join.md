@@ -7,8 +7,8 @@ author_profile: true
 We are really interested in aspiring microbiologists who want to join the team. A typical undergraduate committment would be 8-12 hours of lab work each week. For students interested in this, please drop by my office (Room X Lab Sciences East) or enquire by email.
 
 Types of undergraduate projects:\
-1) Functional genomics screens\ 
-2) Gene mutagenesis and characterization of mutant\ 
+1) Functional genomics screens\
+2) Gene mutagenesis and characterization of mutant\
 3) Analysis of pre-exisiting data (e.g. RNAseq, genomic sequencing, etc)
 
 ## Location and Space
