@@ -116,8 +116,7 @@ author:
   xing             :
   youtube          :
   wikipedia        :
-  avatar           : "Arkansas_State_University_Seal.png"
-  
+    
 # Reading Files
 include:
   - .htaccess
