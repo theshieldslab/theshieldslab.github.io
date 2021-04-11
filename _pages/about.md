@@ -10,6 +10,10 @@ redirect_from:
 
 # News
 ---
+### April 2021
+
+Rob has accepted a tenure track position at Arkansas State University and will be starting in August 2021. Can't wait to see the great science that comes out of the lab!
+
 ### September 2020
 
 Rob's collaborator [Dr. Kelly Rice](http://microcell.ufl.edu/people/faculty-directory/rice/) was awarded a new grant from NASA entitled "Assessing the impact of Agr Quorum Sensing on *Staphylococcus aureus* Physiology in the Space Flight Environment". [See here for a link to the award announcement](https://science.nasa.gov/science-news/biological-physical/SpaceBiologyProgramNRAAwardsSep2020). We will be helping with Tn-seq, using *Staph aureus* Tn-seq libraries that will be sent to the International Space Station!
