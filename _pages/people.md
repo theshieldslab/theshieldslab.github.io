@@ -1,9 +1,6 @@
 ---
 layout: archive
-permalink: /people/
 author_profile: true
-redirect_from:
-  - /resume
 ---
 
 [Learn more about becoming a lab member here!](https://theshieldslab.github.io/join/)
