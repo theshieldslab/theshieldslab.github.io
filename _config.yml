@@ -9,7 +9,7 @@
 locale                   : "en-US"
 title                    : "The Shields Lab"
 title_separator          : "-"
-name                     : &name "Your Name"
+name                     : &name "The Shields Lab"
 description              : &description "The Shields Lab is interested in using functional genomics to understand bacterial stress responses and pathogenesis"
 url                      : https://theshieldslab.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
