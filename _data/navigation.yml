@@ -11,12 +11,6 @@ main:
     
   - title: "Resources"
     url: /resources/
-
-  - title: "Teaching"
-    url: /teaching/    
-           
-  - title: "Column"
-    url: /column/
-       
+                
   - title: "Join Us!"
     url: /join/
