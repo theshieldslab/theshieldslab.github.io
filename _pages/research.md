@@ -11,7 +11,7 @@ The long-term goal of the lab is to understand the mechanisms by which Gram posi
 
 We use a variety of methods, both traditional and modern, to understand how *Streptococcus mutans* causes tooth decay. 
 
-<img src='/images/Tools.tiff'>
+<img src='/images/Tools.png'>
 
 ## The Projects
 
