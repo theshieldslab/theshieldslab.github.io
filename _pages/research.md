@@ -17,10 +17,12 @@ We use a variety of methods, both traditional and modern, to understand how *Str
 
 ### To better understand genes that are required for bacteria to survive
 
-Essential genes
+Essential genes are those that are absolutely required for the survival of bacteria. Knowledge of essential genes is important for two main reasons, 1) they highlight fundamental processes of bacteria, and 2) they may offer targets for new antimicrobial therapeutics. We leverage genome-wide functional genomics tools to identify and study genes that are critical for *S. mutans* survival; these techniques including transposon sequencing and CRISPR interference. 
 
 Funding - NASA Space Biology Program
 
 ### Precision editing of the oral microbiome
+
+Our lab is interested in applying CRISPRi and related technologies to discover anti-*S. mutans* therapeutics. We are currently working on an antimicrobial that represses essential gene expression to eliminate the growth of *S. mutans*. 
 
 Funding - Colgate CARE award
