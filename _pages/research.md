@@ -15,7 +15,7 @@ We use a variety of methods, both traditional and modern, to understand how *Str
 
 ## The Projects
 
-### To better understand genes that are required for bacteria to survive
+### Identifying essential genes critical for the colonization and persistence of bacterial pathogens
 
 Essential genes are those that are absolutely required for the survival of bacteria. Knowledge of essential genes is important for two main reasons, 1) they highlight fundamental processes of bacteria, and 2) they may offer targets for new antimicrobial therapeutics. We leverage genome-wide functional genomics tools to identify and study genes that are critical for *S. mutans* survival; these techniques including transposon sequencing and CRISPR interference. 
 
