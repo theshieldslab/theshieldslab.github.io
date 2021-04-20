@@ -21,6 +21,10 @@ Essential genes are those that are absolutely required for the survival of bacte
 
 Funding - NASA Space Biology Program
 
+### Characterization of novel essential genes
+
+Microbial essential genes can be broadly categorized into three pathways: processing of genetic information, energy production, and maintenance of the cell envelope. However, contained within the essential genome are a number of genes for hypothetical proteins for which virtually nothing is known regarding their biology. Work related to identifying the function of some of these genes has already begun, and we have made good progress addressing the functions of an essential transcriptional regulator. Addressing the functions of these as yet undetermined genes could be critical for developing new therapies against pathogens. 
+
 ### Precision editing of the oral microbiome
 
 Our lab is interested in applying CRISPRi and related technologies to discover anti-*S. mutans* therapeutics. We are currently working on an antimicrobial that represses essential gene expression to eliminate the growth of *S. mutans*. 
