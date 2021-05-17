@@ -84,7 +84,10 @@ analytics:
 author:
   name             : 
   avatar           : "AStateRed.png"
-   location         : "Room 302 Lab Sciences East"
+  location         : "Room 302 Lab Sciences East"
+  bio              : "We are a molecular microbiology lab interested in streptococcal genetics.<br><br>
+                    <img src='/images/Colgate.png'><br><br>
+                    <img src='/images/NASA.png'><br>"
   employer         :
   pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?user=bN4skbwAAAAJ&hl=en"
@@ -116,9 +119,7 @@ author:
   xing             :
   youtube          :
   wikipedia        :
-  bio              : "We are a molecular microbiology lab interested in streptococcal genetics.<br><br>
-                    <img src='/images/Colgate.png'><br><br>
-                    <img src='/images/NASA.png'><br>"
+ 
     
 # Reading Files
 include:
