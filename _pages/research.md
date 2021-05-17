@@ -3,7 +3,7 @@ layout: archive
 permalink: /research/
 author_profile: true
 ---
-
+<br>
 ## The Problem - Tooth Decay
 
 Poor oral hygiene combined with frequent ingestion of simple sugars creates an environment in which changes in the oral microbiome (dental plaque) can cause dental caries (tooth decay). If tooth decay is left untreated it causes the breakdown of teeth, with symptoms that include pain, difficulty eating and tooth loss. While education, water fluoridation and improvements to oral hygiene products have helped to decrease caries incidence and severity, the prevalence of the disease remains remarkably high ~90% of adults and ~60% of adolescents in the US have experienced caries in their adult teeth. In addition, approximately 40% of children have had dental caries in their teeth. Surgical restoration remains a primary way to treat caries, with significant costs associated with dental treatment. Moreover, caries is predicted to remain a significant global health problem as developing countries increase consumption of cariogenic sugars and life expectancies increase.
