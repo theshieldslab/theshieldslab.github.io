@@ -84,7 +84,8 @@ analytics:
 author:
   name             : 
   avatar           : "ASUlogo.png"
-  bio              : "We are a molecular microbiology lab interested in streptococcal genetics."
+  bio              : "We are a molecular microbiology lab interested in streptococcal genetics.<br><br>
+                    <img src='/images/Colgate.png'><br>"
   location         : "Room 302 Lab Sciences East"
   employer         :
   pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
