@@ -84,14 +84,14 @@ analytics:
 author:
   name             : 
   avatar           : "AState3.png"
-  location         : "Room 302 Lab Sciences East"
+  location         :
   bio              : "We are a molecular microbiology lab interested in streptococcal genetics.<br><br>
                     Funding provided by<hr>
                     <img src='/images/Colgate.png'><br><br>
                     <img src='/images/NASA.png'><br>"
   employer         :
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "https://scholar.google.com/citations?user=bN4skbwAAAAJ&hl=en"
+  pubmed           :
+  googlescholar    :
   email            :
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
@@ -108,7 +108,7 @@ author:
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         :
-  orcid            : "http://orcid.org/0000-0002-8823-9504"
+  orcid            :
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
