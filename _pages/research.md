@@ -17,7 +17,8 @@ The long-term goal of the lab is to understand the mechanisms by which Gram posi
 
 We use a variety of methods, both traditional and modern, to understand how *Streptococcus mutans* causes tooth decay. 
 
-<img src='/images/Tools.png' width="80%">
+<img src='/images/Tools.png' width="90%">
+A simple diagram explaining the process of caries which is predominately caused by shifts in the abundance of certain oral bacteria. These shifts are caused by changes in the environment - eating and drinking excess sugar without good oral hygiene. 
 
 ## The Projects
 
