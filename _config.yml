@@ -122,7 +122,8 @@ author:
   xing             :
   youtube          :
   wikipedia        :
-  image            : https://github.com/theshieldslab/theshieldslab.github.io/blob/master/images/Colgate.png
+  image            : /images/Colgate.png
+  avatar           : /images/Colgate.png
     
 # Reading Files
 include:
