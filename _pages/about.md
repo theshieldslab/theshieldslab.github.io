@@ -14,6 +14,10 @@ redirect_from:
 
 # Recent News
 ---
+### May 2021
+
+Rob has been awarded a grant from the National Institute for Dental and Craniofacial Research (NIDCR). It is an R03 (Small Grant Program for New Investigators) and will fund our project looking at the biology of an integrative conjugative element - an interesting region of mobile DNA.
+
 ### April 2021
 
 Rob has accepted a tenure track position at Arkansas State University and will be starting in August 2021. Can't wait to see the great science that comes out of the lab!
