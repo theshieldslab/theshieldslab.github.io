@@ -4,7 +4,7 @@ permalink: /join/
 author_profile: true
 ---
 
-We are really interested in aspiring microbiologists who want to join the team. A typical undergraduate committment would be 8-12 hours of lab work each week. For students interested in this, please drop by my office (Room X Lab Sciences East) or enquire by email.
+We are really interested in aspiring microbiologists who want to join the team. A typical undergraduate committment would be 8-12 hours of lab work each week. For students interested in this, please drop by my office (Room 418 Lab Sciences East) or enquire by email.
 
 Types of undergraduate projects:\
 1) Functional genomics screens\
@@ -13,7 +13,7 @@ Types of undergraduate projects:\
 
 ## Location and Space
 
-Our lab is located at the following location on the Arkansas State University campus:
+Our lab is located at the following location on the Arkansas State University campus (Room 302):
 
 {% include google-map.html latitude=35.8401536 longitude=-90.6777637 zoom=17 %}
 
