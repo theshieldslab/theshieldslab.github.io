@@ -17,7 +17,7 @@ Types of undergraduate projects:\
 
 Our lab is located at the following location on the Arkansas State University campus (Room 302):
 
-<img src='/images/gmapslab.png'>
+<img src='/images/gmapslab.png' width="70%" height="70%">
 
 ### Wet-lab Area
 
