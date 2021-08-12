@@ -11,11 +11,13 @@ Types of undergraduate projects:\
 2) Gene mutagenesis and characterization of mutant\
 3) Analysis of pre-exisiting data (e.g. RNAseq, genomic sequencing, etc)
 
+*We will soon have an opening for a 2+ year research technician position, email Rob to find out more.*
+
 ## Location and Space
 
 Our lab is located at the following location on the Arkansas State University campus (Room 302):
 
-{% include google-map.html latitude=35.8401536 longitude=-90.6777637 zoom=17 %}
+<img src='/images/gmapslab.png'>
 
 ### Wet-lab Area
 
