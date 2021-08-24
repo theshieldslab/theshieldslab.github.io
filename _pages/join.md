@@ -6,7 +6,7 @@ author_profile: true
 
 Please see below for open positions.
 
-If interested in any of the oppurtunities, please email your CV and information about yourself to Dr. Shields (rshields{at}astate.edu). Students interested in joining our group for graduate studies must also apply to either through the Department of Biological Sciences.
+If interested in any of the oppurtunities, please email your CV and information about yourself to Dr. Shields (rshields{at}astate.edu). Students interested in joining our group for graduate studies must also apply through the Department of Biological Sciences.
 
 ## Graduate positions:
 
