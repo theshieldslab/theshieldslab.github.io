@@ -10,6 +10,8 @@ If interested in any of the oppurtunities, please email your CV and information 
 
 ## Graduate positions:
 
+The A-State Biological Sciences department has a vibrant graduate student community of approximately 50 grad students.
+
 M.S. and Ph.D. degrees are available through the Molecular Biosciences Graduate Program ([click link for details](https://www.astate.edu/college/sciences-and-mathematics/degrees/degree-details.dot?mid=923c2388-a12b-4652-a39d-dd4b77519a7e))
 
 M.S. degrees are also available through a Biology program ([click link for details](https://www.astate.edu/college/sciences-and-mathematics/degrees/degree-details.dot?mid=3ee79ec1-24ed-48f8-9c73-7bea39c83b77))
