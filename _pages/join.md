@@ -30,7 +30,7 @@ As of now, we are not seeking postdoctoral research associates. That said, excep
 
 ## Undergraduate student positions
 
-We are really interested in ambitious undergraduate microbiologists who want to join the team. A typical undergraduate committment would be 8-12 hours of lab work each week. Projects will vary depending on interest, skills and time availablity but here are some typical project outlines:
+We are really interested in ambitious undergraduate microbiologists who want to join the team. A typical undergraduate commitment would be 8-12 hours of lab work each week. Projects will vary depending on interest, skills and time availability but here are some typical project outlines:
 
 Types of undergraduate projects:\
 1) Functional genomics screens\
