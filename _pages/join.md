@@ -52,3 +52,7 @@ Our lab is located at the following location on the Arkansas State University ca
 *The space is being updated, reorganized, and new equipment bought as we settle in!*
 
 <img src='/images/IMG_0447.JPG'>
+
+### Arkansas Biosciences Institute
+
+We are close (5 minute walk) to the Arkansas Biosciences Institute (ABI; https://www.astate.edu/a/abi/about/). The ABI houses multiple faculty actively involved in the following research topics Agriculture and Disease, Molecular Innovations in Food Science, Plant Metabolic Engineering, and Plant-base Protein Production. We have access to state-of-the-art science equipment and facilities that are housed at the ABI. 
