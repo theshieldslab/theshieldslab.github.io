@@ -14,6 +14,12 @@ redirect_from:
 
 # Recent News
 ---
+### September 2021
+
+The Shields Lab is open and slowly becoming more organized/equipped. Below is a picture showing the progress we have made in one month!
+
+<img src='/images/Labreno.png' width="70%" height="70%">
+
 ### May 2021
 
 Rob has been awarded a grant from the National Institute for Dental and Craniofacial Research (NIDCR). It is an R03 (Small Grant Program for New Investigators) and will fund our project looking at the biology of an integrative conjugative element - an interesting region of mobile DNA.
