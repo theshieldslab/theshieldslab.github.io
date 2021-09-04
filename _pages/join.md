@@ -20,7 +20,7 @@ These M.S. and Ph.D. programs have a significant research/thesis component.
 
 For the Molecular Biosciences program applications are accepted till Feb 15th for Fall admissions, and till July 15th for Spring admissions.
 
-Support - most M.S. or Ph.D. students are supported either as a Graduate Teaching Assistant or Graduate Research Assistant. Alternatively students may also be supported from faculty research grants. 
+Support - most M.S. or Ph.D. students are supported either as a Graduate Teaching Assistant or Graduate Research Assistant.
 
 ## Staff Positions
 
