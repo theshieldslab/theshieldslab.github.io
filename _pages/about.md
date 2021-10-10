@@ -14,6 +14,12 @@ redirect_from:
 
 # Recent News
 ---
+### October 2021
+
+Making good progress in getting the lab up and running. We've even started collecting our first data! Shawn King, an undergraduate researcher, is testing compounds made by Dr. Alam's group in the Chemistry & Physics Department for inhibitory activity against *S. mutans*. He has a lot of compounds to test but we already have active ones...
+
+<img src='/images/Shawn_Plate1.png' width="70%" height="70%">
+
 ### September 2021
 
 The Shields Lab is open and slowly becoming more organized/equipped. Below is a picture showing the progress we have made in one month!
