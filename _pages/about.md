@@ -18,7 +18,7 @@ redirect_from:
 
 Making good progress in getting the lab up and running. We've even started collecting our first data! Shawn King, an undergraduate researcher, is testing compounds made by Dr. Alam's group in the Chemistry & Physics Department for inhibitory activity against *S. mutans*. He has a lot of compounds to test but we already have active ones...
 
-<img src='/images/Shawn_Plate1.png' width="70%" height="70%">
+<img src='/images/Shawn_Plate1.png' width="50%" height="50%">
 
 ### September 2021
 
