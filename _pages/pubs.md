@@ -8,6 +8,12 @@ author_profile: true
 
 <script type='text/javascript' src='https://d1bxh8uas1mnw7.cloudfront.net/assets/embed.js'></script>
 
+### 2022
+---
+[Identification and Analysis of Essential Genes in *Streptococcus mutans* with Transposon Sequencing](https://link.springer.com/protocol/10.1007/978-1-0716-1720-5_13)\
+Walker AR & Shields RC\
+[Essential Genes and Genomes](https://link.springer.com/book/10.1007/978-1-0716-1720-5)
+
 ### 2020
 ---
 [**Repurposing the *Streptococcus mutans* CRISPR-Cas9 system to understand essential gene function**](https://journals.plos.org/plospathogens/article?id=10.1371/journal.ppat.1008344)\
