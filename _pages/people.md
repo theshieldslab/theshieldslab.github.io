@@ -15,5 +15,5 @@ I earned my PhD in Microbiology at Newcastle University (United Kingdom) in Nick
 ### Bryant Reed - B.S. Biology Undergraduate
 
 ## Alumni
-
+Shawn King - B.S. Biology - Screened antimicrobial pyrazole compounds against *S. mutans*
 Kalee King - B.S. Biology - Worked on TnSmu1 conjugation in Fall 2021
