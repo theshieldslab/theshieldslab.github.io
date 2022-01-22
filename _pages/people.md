@@ -1,5 +1,5 @@
 ---
-layout: gridlay
+layout: default
 permalink: /people/
 author_profile:true
 ---
