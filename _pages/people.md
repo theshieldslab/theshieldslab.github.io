@@ -1,9 +1,7 @@
 ---
-title: "Shields Lab - Team"
 layout: gridlay
-excerpt: "Shields Lab: Team Members"
-sitemap: false
 permalink: /people/
+author_profile:true
 ---
 
 # Group Members
