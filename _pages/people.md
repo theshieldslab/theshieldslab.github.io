@@ -5,10 +5,10 @@ author_profile: true
 ---
 ## Current Members
 <img src='/images/RCSPortrait.png' width="10%">
-#### Robert Shields - Assistant Professor\
-* B.S. Marine Biology - Newcastle University\
-* Ph.D. Microbiology - Newcastle University\
-* Postdoc - University of Florida\
+#### Robert Shields - Assistant Professor
+* B.S. Marine Biology - Newcastle University
+* Ph.D. Microbiology - Newcastle University
+* Postdoc - University of Florida
 
 ## Alumni
 
