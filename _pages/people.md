@@ -10,7 +10,7 @@ I earned my PhD in Microbiology at Newcastle University (United Kingdom) in Nick
 ### Undergraduate Research Students
 
 ### Bryant Reed - B.S. Biotechnology
-
+---
 ### Allison Quick - B.S. Biology
 
 ### Jackson St. Pierre - B.S. Biology
