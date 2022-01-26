@@ -17,6 +17,8 @@ I am a 3rd-year B.S Biotechnology major and I am currently working in the Shield
 
 ### Jackson St. Pierre - B.S. Biology
 
+### Makenzie Roth - B.S. Biology
+
 ## Alumni
 ---
 **Shawn King** (Fall 2021) - B.S. Biology - Screened antimicrobial pyrazole compounds against *S. mutans*\
