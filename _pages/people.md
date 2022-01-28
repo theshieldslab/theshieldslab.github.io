@@ -17,7 +17,7 @@ I am a 3rd-year B.S Biotechnology major and I am currently working in the Shield
 
 ### Jackson St. Pierre - B.S. Biology
 
-### Makenzie Roth - B.S. Biology
+### Makenzie Rone - B.S. Biology
 
 ## Alumni
 ---
