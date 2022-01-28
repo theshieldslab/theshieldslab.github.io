@@ -12,7 +12,7 @@ I earned my PhD in Microbiology at Newcastle University (United Kingdom) in Nick
 <img src='/images/Bryant.png' width="15%">
 ### Bryant Reed - B.S. Biotechnology
 I am a 3rd-year B.S Biotechnology major and I am currently working in the Shields Lab as a research technician where I am testing various stilbenoid compounds against *S. mutans*. An interesting fact was that I was originally a Biology major (pre-med). However, after discovering my love of the lab and that I can help as many people in a lab as I could in a hospital, I decided to work on a B.S. of Biotechnology. After I graduate I hope to get into a graduate program and eventually, work my way up to getting my Ph.D. in Molecular Biosciences.<br />
-
+<br />
 <img src='/images/Makenzie.jpeg' width="15%">
 ### Makenzie Rone - B.S. Biology
 I am a senior biological sciences student and I am working in Dr. Shields’ lab as a researcher. I am currently testing Arkansas soils for antibiotic producing bacteria, as well as testing Tiny Earth protocols. My plans after graduation include continuing to conduct research, as well as choosing a doctorate program to apply to.  One fun fact about me is that I serve as Secretary for the Women In Science.
