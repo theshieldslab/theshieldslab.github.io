@@ -10,6 +10,7 @@ I earned my PhD in Microbiology at Newcastle University (United Kingdom) in Nick
 ### Staff Members
 ---
 <img src='/images/photo for website.jpeg' width="15%">
+### Shawn King - Research Technician
 I began my research in the Shields lab in October 2021 as a research technician and finished screening and testing pyrazole derivatives compounds in late December and January for inhibition against *S. mutans*. I graduated from Arkansas State University with my Bachelors of Science in Biological Sciences on December 18th 2021. In February I rejoined the research laboratory as a research assistant/technician and laboratory manager. In my spare time I enjoy reading Harry Potter and playing video games and I love to cook in the kitchen. I have 2 geckos, one golden gecko and a leopard gecko. Their names are Izzabella and Dizzy. 
 
 ### Undergraduate Research Students
