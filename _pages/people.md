@@ -24,7 +24,7 @@ I am a 3rd-year B.S Biotechnology major and I am currently working in the Shield
 I am a senior biological sciences student and I am working in Dr. Shields’ lab as a researcher. I am currently testing Arkansas soils for antibiotic producing bacteria, as well as testing Tiny Earth protocols. My plans after graduation include continuing to conduct research, as well as choosing a doctorate program to apply to.  One fun fact about me is that I serve as Secretary for the Women In Science.
 <img src='/images/Ally Headshot.png' width="15%">
 ### Allison Quick - B.S. Biology
-I am a senior biological sciences major and currently working on microbial bioinformatics using the tool ICEfinder to detect ICE/IMEs in smu genomes. After I graduate, I plan to go to dental school. One fun fact about me is that I am currently the president of the Pre-Dental Club. 
+I am a senior biological sciences major and currently working on microbial bioinformatics using the tool ICEfinder to detect ICE/IMEs in *S. mutans* genomes. After I graduate, I plan to go to dental school. One fun fact about me is that I am currently the president of the Pre-Dental Club. 
 
 ## Alumni
 ---
