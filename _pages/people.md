@@ -25,7 +25,7 @@ I am a senior biological sciences major and currently working on microbial bioin
 
 ## Alumni
 ---
-**Bryant Reed** (Spring 2022) - B.S. Biotechnology - Investigated the inhibitory effects of stilbenes (natural products produce by plant roots) on *S. mutans*\
+**Bryant Reed** (Spring 2022) - B.S. Biotechnology - Investigated the inhibitory effects of stilbenes (natural products produced by plant roots) on *S. mutans*\
 **Jackson St. Pierre** (Fall 2021) - B.S. Biology - Worked on TnSmu1 conjugation efficiency assays and lab chemical organization\
 **Shawn King** (Fall 2021) - B.S. Biology - Screened antimicrobial pyrazole compounds against *S. mutans*\
 **Kalee King** (Fall 2021) - B.S. Biology - Worked on TnSmu1 conjugation efficiency assays
