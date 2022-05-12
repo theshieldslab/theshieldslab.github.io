@@ -18,7 +18,7 @@ redirect_from:
 ---
 ### May 2022
 
-Updated look at the lab below, we have made a lot of progress setting it up for our needs. Also check out two new preprints, with the links posted above!
+Updated look at the lab below, we have made a lot of progress setting it up for our needs. Also check out two new preprints, with the links posted above! Spring semester was busy...Shawn King joined as a lab manager/research tech, I presented at AR-BIC, submitted a grant to Arkansas INBRE and submitted two papers.
 
 <img src='/images/302_May2022.jpg' width="50%" height="50%">
 
