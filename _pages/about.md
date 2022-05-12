@@ -10,7 +10,7 @@ redirect_from:
 
 ### Latest Publication(s)
 
-[Activation of TnSmu1, an integrative and conjugative element, is lethal to *Streptococcus mutans*](https://www.biorxiv.org/content/10.1101/2022.05.11.491493v1)
+[Activation of TnSmu1, an integrative and conjugative element, is lethal to *Streptococcus mutans*](https://www.biorxiv.org/content/10.1101/2022.05.11.491493v1)\
 [Investigating CRISPR spacer targets and their impact on genomic diversification of *Streptococcus mutans*](https://www.biorxiv.org/content/10.1101/2022.04.14.488371v1)
 
 # Recent News
