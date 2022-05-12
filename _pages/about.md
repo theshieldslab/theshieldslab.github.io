@@ -16,6 +16,12 @@ redirect_from:
 
 # Recent News
 ---
+### May 2022
+
+Updated look at the lab below, we have made a lot of progress setting it up for our needs. Also check out two new preprints, with the links posted above!
+
+<img src='/images/302_May2022.jpg' width="50%" height="50%">
+
 ### October 2021
 
 Making good progress in getting the lab up and running. We've even started collecting our first data! Shawn King, an undergraduate researcher, is testing compounds made by Dr. Alam's group in the Chemistry & Physics Department for inhibitory activity against *S. mutans*. He has a lot of compounds to test but we already have active ones...
