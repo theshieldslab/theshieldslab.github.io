@@ -17,7 +17,7 @@ I began my research in the Shields lab in October 2021 as a research technician 
 ---
 <img src='/images/Erin.jpg' width="15%">
 ### Erin Pruitt - B.S. Biology
-I'm a senior biology major, and I'm currently examining the inhibitory effects of compounds on the acid production of S. Mutans. After graduating, I plan to continue my education through a nursing program. I like to draw, play video games, and read in my spare time.<br />
+I'm a senior biology major, and I'm currently examining the inhibitory effects of compounds on the acid production of *S. mutans*. After graduating, I plan to continue my education through a nursing program. I like to draw, play video games, and read in my spare time.<br />
 <br />
 
 ## Alumni
