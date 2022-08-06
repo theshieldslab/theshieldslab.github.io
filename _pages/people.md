@@ -15,16 +15,15 @@ I began my research in the Shields lab in October 2021 as a research technician 
 
 ### Undergraduate Research Students
 ---
-<img src='/images/Makenzie.jpeg' width="15%">
-### Makenzie Rone - B.S. Biology
-I am a senior biological sciences student and I am working in Dr. Shields’ lab as a researcher. I am currently testing Arkansas soils for antibiotic producing bacteria, as well as testing Tiny Earth protocols. My plans after graduation include continuing to conduct research, as well as choosing a doctorate program to apply to.  One fun fact about me is that I serve as Secretary for the Women In Science.<br />
+<img src='/images/Erin.jpg' width="15%">
+### Erin Pruitt - B.S. Biology
+I'm a senior biology major, and I'm currently examining the inhibitory effects of compounds on the acid production of S. Mutans. After graduating, I plan to continue my education through a nursing program. I like to draw, play video games, and read in my spare time.<br />
 <br />
-<img src='/images/Ally Headshot.png' width="15%">
-### Allison Quick - B.S. Biology
-I am a senior biological sciences major and currently working on microbial bioinformatics using the tool ICEfinder to detect ICE/IMEs in *S. mutans* genomes. After I graduate, I plan to go to dental school. One fun fact about me is that I am currently the president of the Pre-Dental Club. 
 
 ## Alumni
 ---
+**Makenzie Rone** (Spring 2022) - B.S. Biology - Working on microbial bioinformatics using the tool ICEfinder to detect ICE/IMEs in *S. mutans* genomes
+**Makenzie Rone** (Spring 2022) - B.S. Biology - Testing Arkansas soils for antibiotic producing bacteria, as well as testing Tiny Earth protocols.
 **Bryant Reed** (Spring 2022) - B.S. Biotechnology - Investigated the inhibitory effects of stilbenes (natural products produced by plant roots) on *S. mutans*\
 **Jackson St. Pierre** (Fall 2021) - B.S. Biology - Worked on TnSmu1 conjugation efficiency assays and lab chemical organization\
 **Shawn King** (Fall 2021) - B.S. Biology - Screened antimicrobial pyrazole compounds against *S. mutans*\
