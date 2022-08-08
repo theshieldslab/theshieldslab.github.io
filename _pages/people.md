@@ -19,6 +19,11 @@ I began my research in the Shields lab in October 2021 as a research technician 
 ### Erin Pruitt - B.S. Biology
 I'm a senior biology major, and I'm currently examining the inhibitory effects of compounds on the acid production of *S. mutans*. After graduating, I plan to continue my education through a nursing program. I like to draw, play video games, and read in my spare time.<br />
 <br />
+<img src='/images/Dover.jpg' width="15%">
+### Courtney Dover - B.S. Biology
+I am a senior Biological Sciences major, and I will be graduating in December 2022. My research involves the functional characterization of hypothetical essential genes in samples of Streptococcus mutans that have been modified using CRISPRi. When I'm not in the lab, you can find me crocheting, reading, or playing video games. After I graduate, I'm hoping to enroll in the M.S. Biological Sciences program here at Arkansas State University, and after that, I plan to pursue a PhD in Microbiology.<br />
+<br />
+
 
 ## Alumni
 ---
