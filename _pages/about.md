@@ -16,6 +16,11 @@ redirect_from:
 
 # Recent News
 ---
+
+### August 2022
+
+Rob has been awarded a grant from [Arkansas INBRE](https://inbre.uams.edu/). It is a Research Development Grant and will fund our research investigating important genes that have no known functions in bacteria. 
+
 ### May 2022
 
 Updated look at the lab below, we have made a lot of progress setting it up for our needs. Also check out two new preprints, with the links posted above! Spring semester was busy...Shawn King joined as a lab manager/research tech, I presented at [AR-BIC](https://aralliance.org/ar-bic/), submitted a grant to [Arkansas INBRE](https://inbre.uams.edu/) and submitted two papers.
