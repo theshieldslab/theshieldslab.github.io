@@ -19,7 +19,7 @@ redirect_from:
 
 ### August 2022
 
-Rob has been awarded a grant from [Arkansas INBRE](https://inbre.uams.edu/). It is a Research Development Grant and will fund our research investigating important genes that have no known functions in bacteria. 
+Rob has been awarded a grant from [Arkansas INBRE](https://inbre.uams.edu/). It is a Research Development Grant that will fund our research investigating important genes that have no known functions in bacteria. The grant will start in January 2023 and run until May 2025.
 
 ### May 2022
 
