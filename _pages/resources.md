@@ -13,5 +13,5 @@ author_profile: true
 **Raw Data**\
 [CRISPRi RNA-seq dataset](https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE141863)\
 [mreCD RNA-seq dataset](https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE165679)\
-[CRISPRi immR RNA-seq dataset](https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE202804)\
+[CRISPRi sgRNA-*immR* RNA-seq dataset](https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE202804)\
 [S. mutans CRISPR spacers dataset](https://github.com/theshieldslab/Streptococcus-mutans-CRISPR-Spacers-Analysis)
