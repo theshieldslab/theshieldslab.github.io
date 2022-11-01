@@ -16,6 +16,9 @@ redirect_from:
 
 # Recent News
 ---
+### October 2022
+We recently attended the annual meeting of the South Central branch of the American Society for Microbiology. Lots of interesting and excellent microbiology research and Shawn was able to present his work on the *S. mutans* ICE TnSmu1. 
+<img src='/images/ASMSCB22.jpg' width="50%" height="50%">
 
 ### August 2022
 
