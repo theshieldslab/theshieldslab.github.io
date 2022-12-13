@@ -10,7 +10,7 @@ redirect_from:
 
 ### Latest Publication(s)/Preprint(s)
 
-[Interspecies competition in oral biofilms mediated by Streptococcus gordonii extracellular deoxyribonuclease SsnA](https://www.nature.com/articles/s41522-022-00359-z)
+[Interspecies competition in oral biofilms mediated by *Streptococcus gordonii* extracellular deoxyribonuclease SsnA](https://www.nature.com/articles/s41522-022-00359-z)
 
 [Activation of TnSmu1, an integrative and conjugative element, by an ImmR-like transcriptional regulator in *Streptococcus mutans*](https://www.microbiologyresearch.org/content/journal/micro/10.1099/mic.0.001254?crawler=true)
 
