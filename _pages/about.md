@@ -10,9 +10,11 @@ redirect_from:
 
 ### Latest Publication(s)/Preprint(s)
 
-[Activation of TnSmu1, an integrative and conjugative element, by an ImmR-like transcriptional regulator in *Streptococcus mutans*](https://www.biorxiv.org/content/10.1101/2022.05.11.491493v2)
+[Interspecies competition in oral biofilms mediated by Streptococcus gordonii extracellular deoxyribonuclease SsnA](https://www.nature.com/articles/s41522-022-00359-z)
 
-[Investigating CRISPR spacer targets and their impact on genomic diversification of *Streptococcus mutans*](https://www.biorxiv.org/content/10.1101/2022.04.14.488371v1)
+[Activation of TnSmu1, an integrative and conjugative element, by an ImmR-like transcriptional regulator in *Streptococcus mutans*](https://www.microbiologyresearch.org/content/journal/micro/10.1099/mic.0.001254?crawler=true)
+
+[Investigating CRISPR spacer targets and their impact on genomic diversification of *Streptococcus mutans*](https://www.frontiersin.org/articles/10.3389/fgene.2022.997341/full)
 
 # Recent News
 ---
