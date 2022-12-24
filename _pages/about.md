@@ -19,8 +19,8 @@ redirect_from:
 # Recent News
 ---
 ### December 2022
-<img src='/images/maipai2022.jpg' width="40%" height="40%">
-
+<img src='/images/maipai2022.jpg' width="40%" height="40%">\
+\
 Great way to finish the year - with some food at Mai Pai. Successful year with a few pubs, grants, Beatrice starting her PhD, Shawn learning all the assays and Courtney completing her honors thesis. 2023 is going to be even bigger!
 
 ### October 2022
