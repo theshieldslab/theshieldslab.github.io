@@ -34,7 +34,7 @@ I'm a senior biology major, and I'm currently examining the inhibitory effects o
 
 <img src='/images/IMG_7767_Original.jpg' width="15%">
 ### Karen Solano - B.S. Biotechnology
-I am a senior biotechnology major from Arkansas State University Campus Queretaro in Mexico. I did an Internship during the summer of 2022 at the Autonomous University of Hidalgo State in the Academic Area of Veterinary Medicine and Zoo-techniques, working on the Detection of Enzymes produced during germination in wheat seeds. I am currently working as a Research Assistant in the Shields Molecular Microbiology Laboratory, constructing an ordered Tn library as a resource for the S.mutans community. This project was funded by the Arkansas IDeA Network of Biomedical Research Excellence (Arkansas INBRE).
+I am a senior biotechnology major from Arkansas State University Campus Queretaro in Mexico. I did an Internship during the summer of 2022 at the Autonomous University of Hidalgo State in the Academic Area of Veterinary Medicine and Zoo-techniques, working on the detection of enzymes produced during germination in wheat seeds. I am currently working as a Research Assistant in the Shields Molecular Microbiology Laboratory, constructing an ordered Tn library as a resource for the *S.mutans* community. This project was funded by the Arkansas IDeA Network of Biomedical Research Excellence (Arkansas INBRE).
 After graduating in December 2023, I am planning to pursue graduate school in the field of microbiology.<br />
 
 ## Alumni
