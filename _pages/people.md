@@ -39,6 +39,7 @@ After graduating in December 2023, I am planning to pursue graduate school in th
 
 ## Alumni
 ---
+**Seth Woods** (Fall 2022) - B.S. Biology - Working on microbial bioinformatics using the tool ICEfinder to detect ICE/IMEs in *S. mutans* genomes\
 **Allison Quick** (Spring 2022) - B.S. Biology - Working on microbial bioinformatics using the tool ICEfinder to detect ICE/IMEs in *S. mutans* genomes\
 **Makenzie Rone** (Spring 2022) - B.S. Biology - Testing Arkansas soils for antibiotic producing bacteria, as well as testing Tiny Earth protocols\
 **Bryant Reed** (Spring 2022) - B.S. Biotechnology - Investigated the inhibitory effects of stilbenes (natural products produced by plant roots) on *S. mutans*\
