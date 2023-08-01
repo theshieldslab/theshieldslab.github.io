@@ -18,6 +18,22 @@ redirect_from:
 
 # Recent News
 ---
+### August 2022
+
+<img src='/images/labupdate23' width="40%" height="40%">\
+\
+We've made a lot of progress organizing and equipping our lab space, as can be seen above.
+
+### June 2022
+
+Rob was awarded a seed grant from the [Arkansas Biosciences Institue at A-State](https://www.astate.edu/a/abi/). This $70,000 grant will fund our research on TnSmu1 for the next two years - thank you ABI!
+
+### April 2022
+
+<img src='/images/create23.pdf' width="40%" height="40%">\
+\
+Courtney, Hansa, Andrew and Karen all presented at Create@STATE with Andrew and Karen winning the Dean's Award for Undergraduate Poster Presentation College of Sciences and Mathematics!
+
 ### December 2022
 <img src='/images/maipai2022.jpg' width="40%" height="40%">\
 \
