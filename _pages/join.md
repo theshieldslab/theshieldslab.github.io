@@ -26,8 +26,6 @@ Support - most M.S. or Ph.D. students are supported either as a Graduate Teachin
 
 As of now, we are not seeking postdoctoral research associates. That said, exceptional candidates who may be able to secure outside fellowships are encouraged to contact Rob.
 
-*We may be hiring for a research technician position in the near future.*
-
 ## Undergraduate student positions
 
 We are really interested in ambitious undergraduate microbiologists who want to join the team. A typical undergraduate commitment would be 8-12 hours of lab work each week. Projects will vary depending on interest, skills and time availability but here are some typical project outlines:
@@ -51,7 +49,7 @@ Our lab is located at the following location on the Arkansas State University ca
 
 *The space is being updated, reorganized, and new equipment bought as we settle in!*
 
-<img src='/images/IMG_0447.JPG'>
+<img src='/images/labupdate23.jpeg'>
 
 ### Arkansas Biosciences Institute
 
