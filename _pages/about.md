@@ -20,7 +20,7 @@ redirect_from:
 ---
 ### August 2022
 
-<img src='/images/labupdate23' width="40%" height="40%">\
+<img src='/images/labupdate23.jpeg' width="40%" height="40%">\
 \
 We've made a lot of progress organizing and equipping our lab space, as can be seen above.
 
