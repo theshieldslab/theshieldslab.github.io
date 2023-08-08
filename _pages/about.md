@@ -18,17 +18,23 @@ redirect_from:
 
 # Recent News
 ---
-### August 2022
+### August 2023
+Jayson Smith (Nettleton High School) gained valuable hands-on research experience this summer as part of [ACS Project SEED](https://www.acs.org/education/students/highschool/seed.html). Jayson worked with Beatrice to 'knock out' three genes in S. mutans - which was a success!
+
+<img src='/images/jayson23.jpeg' width="60%" height="60%">
+
+
+### August 2023
 
 <img src='/images/labupdate23.jpeg' width="60%" height="60%">\
 \
 We've made a lot of progress organizing and equipping our lab space, as can be seen above.
 
-### June 2022
+### June 2023
 
 Rob was awarded a seed grant from the [Arkansas Biosciences Institue at A-State](https://www.astate.edu/a/abi/). This $70,000 grant will fund our research on TnSmu1 for the next two years - thank you ABI!
 
-### April 2022
+### April 2023
 
 <img src='/images/create23.png' width="40%" height="40%">\
 \
