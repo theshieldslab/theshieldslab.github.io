@@ -21,7 +21,7 @@ redirect_from:
 ### August 2023
 Jayson Smith (Nettleton High School) gained valuable hands-on research experience this summer as part of [ACS Project SEED](https://www.acs.org/education/students/highschool/seed.html). Jayson worked with Beatrice to 'knock out' three genes in S. mutans - which was a success!
 
-<img src='/images/jayson23.jpeg' width="60%" height="60%">
+<img src='/images/jayson23.jpg' width="60%" height="60%">
 
 
 ### August 2023
