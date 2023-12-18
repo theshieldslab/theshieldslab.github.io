@@ -18,6 +18,10 @@ redirect_from:
 
 # Recent News
 ---
+### November 2023
+
+<img src='/images/INBRE2023.tif' width="60%" height="60%">\
+
 ### October 2023
 
 Andrew Goode, who is completing his senior honors thesis project in the lab, presented his data at the Arkansas Biosciences Institute Annual Symposium held at the Jack Stephens Spine and Neurosciences Institue, UAMS, Little Rock.
