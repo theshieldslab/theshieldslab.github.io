@@ -24,6 +24,12 @@ I graduated with a bachelor's degree in Biomedical Sciences from the University 
 My research involves the functional characterization of hypothetical essential genes in samples of Streptococcus mutans that have been modified using CRISPRi. When I'm not in the lab, you can find me crocheting, reading, or playing video games. After I graduate, I plan to pursue a PhD in Microbiology.<br />
 <br />
 
+### Medical Students
+---
+<img src='/images/Erica.jpg' width="15%">
+### Erica Lee - DO NYIT at A-State
+I received my Bachelor of Science degree in Biochemistry from the University of Washington—Seattle in 2019. As an undergraduate student researcher, I joined Dr. Olivia Bermingham-McDonogh’s lab, studying the regeneration and development of mice's inner ear, and Dr. Mary Lidstrom’s lab, studying molecular and metabolic manipulations of methylotrophic bacteria. In 2022, I joined Nanostring Technologies Inc. in developing their technology and assay for studying spatial genomics. In August 2022, I joined the NYIT College of Osteopathic Medicine at Arkansas State University to pursue a career as an osteopathic physician. In November 2022, I joined Dr. Troy Camarata's lab to study the regeneration and development of the kidney. In June 2023, I joined the Shields lab. Currently, I’m studying virulence factors within conjugative elements (ICEs and IMEs) in Streptococci species.![image](https://github.com/theshieldslab/theshieldslab.github.io/assets/80991462/cf4d4cba-3f8b-4f30-9352-7eed8f28a109)
+
 ### Undergraduate Research Students
 ---
 <img src='/images/Erin.jpg' width="15%">
