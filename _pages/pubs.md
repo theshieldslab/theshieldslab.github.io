@@ -10,27 +10,27 @@ author_profile: true
 
 ### 2023
 ---
-[Construction of an arrayed CRISPRi library as a resource for essential gene function studies in *Streptococcus mutans*](https://journals.asm.org/doi/pdf/10.1128/spectrum.03149-23)\
-St. Pierre J, Roberts J, Alam MA, & Shields RC\
-[Microbiology Spectrum](https://journals.asm.org/journal/spectrum)\
+[Construction of an arrayed CRISPRi library as a resource for essential gene function studies in *Streptococcus mutans*](https://journals.asm.org/doi/pdf/10.1128/spectrum.03149-23)
+St. Pierre J, Roberts J, Alam MA, & Shields RC
+[Microbiology Spectrum](https://journals.asm.org/journal/spectrum)
 
-[Development and antibacterial properties of 4-[4-(anilinomethyl)-3-phenylpyrazol-1-yl] benzoic acid derivatives as fatty acid biosynthesis inhibitors](https://pubs.acs.org/doi/full/10.1021/acs.jmedchem.3c00969)\
-Roy S, Kc HR, Roberts J, Hastings J, Gilmore DF, Shields RC, & Alam MA\
-[Journal of Medicinal Chemistry](https://pubs.acs.org/journal/jmcmar)\
+[Development and antibacterial properties of 4-[4-(anilinomethyl)-3-phenylpyrazol-1-yl] benzoic acid derivatives as fatty acid biosynthesis inhibitors](https://pubs.acs.org/doi/full/10.1021/acs.jmedchem.3c00969)
+Roy S, Kc HR, Roberts J, Hastings J, Gilmore DF, Shields RC, & Alam MA
+[Journal of Medicinal Chemistry](https://pubs.acs.org/journal/jmcmar)
 
 
 ### 2022
 ---
-[Interspecies competition in oral biofilms mediated by *Streptococcus gordonii* extracellular deoxyribonuclease SsnA](https://www.nature.com/articles/s41522-022-00359-z)\
-Rostami N, Shields RC, Serrage HJ, Lawler C, Brittan JL, Yassin S, Ahmed H, Truemann A, Thompson P, Waldron KJ, Nobbs AH, & Jakubovics NS\
-[npj Biofilms and Microbiomes](https://www.nature.com/npjbiofilms/)\
+[Interspecies competition in oral biofilms mediated by *Streptococcus gordonii* extracellular deoxyribonuclease SsnA](https://www.nature.com/articles/s41522-022-00359-z)
+Rostami N, Shields RC, Serrage HJ, Lawler C, Brittan JL, Yassin S, Ahmed H, Truemann A, Thompson P, Waldron KJ, Nobbs AH, & Jakubovics NS
+[npj Biofilms and Microbiomes](https://www.nature.com/npjbiofilms/)
 
-[Investigating CRISPR spacer targets and their impact on genomic diversification of *Streptococcus mutans*](https://www.frontiersin.org/articles/10.3389/fgene.2022.997341/full)\
-Walker AR & Shields RC\
-[Frontiers in Genetics](https://www.frontiersin.org/journals/genetics)\
+[Investigating CRISPR spacer targets and their impact on genomic diversification of *Streptococcus mutans*](https://www.frontiersin.org/articles/10.3389/fgene.2022.997341/full)
+Walker AR & Shields RC
+[Frontiers in Genetics](https://www.frontiersin.org/journals/genetics)
 
-Activation of TnSmu1, an integrative and conjugative element, by an ImmR-like transcriptional regulator in *Streptococcus mutans*](https://www.microbiologyresearch.org/content/journal/micro/10.1099/mic.0.001254)\
-King S, Quick A, King K, Walker AR, & Shields RC\
+Activation of TnSmu1, an integrative and conjugative element, by an ImmR-like transcriptional regulator in *Streptococcus mutans*](https://www.microbiologyresearch.org/content/journal/micro/10.1099/mic.0.001254)
+King S, Quick A, King K, Walker AR, & Shields RC
 [Microbiology](https://www.microbiologyresearch.org/content/journal/micro)
 
 [Identification and Analysis of Essential Genes in *Streptococcus mutans* with Transposon Sequencing](https://link.springer.com/protocol/10.1007/978-1-0716-1720-5_13)\
