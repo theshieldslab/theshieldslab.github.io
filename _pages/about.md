@@ -9,12 +9,12 @@ redirect_from:
 **The Shields Lab in the [Department of Biological Sciences](http://www.astate.edu/college/sciences-and-mathematics/departments/biology/) at [Arkansas State University](https://www.astate.edu/) investigates *Streptococcus mutans* physiology using functional genomics techniques (Tn-seq, CRISPRi, etc). *Streptococcus mutans* infections are a significant problem in dental health, as they help cause tooth decay. The end goal is to develop novel antimicrobials to kill *Streptococcus mutans*.**
 
 ### Latest Publication(s)/Preprint(s)
+[Construction of an arrayed CRISPRi library as a resource for essential gene function studies in Streptococcus mutans](https://journals.asm.org/doi/pdf/10.1128/spectrum.03149-23)
 
 [Interspecies competition in oral biofilms mediated by *Streptococcus gordonii* extracellular deoxyribonuclease SsnA](https://www.nature.com/articles/s41522-022-00359-z)
 
 [Activation of TnSmu1, an integrative and conjugative element, by an ImmR-like transcriptional regulator in *Streptococcus mutans*](https://www.microbiologyresearch.org/content/journal/micro/10.1099/mic.0.001254?crawler=true)
 
-[Investigating CRISPR spacer targets and their impact on genomic diversification of *Streptococcus mutans*](https://www.frontiersin.org/articles/10.3389/fgene.2022.997341/full)
 
 # Recent News
 ---
