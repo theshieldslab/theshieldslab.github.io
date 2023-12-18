@@ -19,6 +19,7 @@ redirect_from:
 # Recent News
 ---
 ### November 2023
+November was a busy month...
 
 We attended the ASM-SCB meeting in Little Rock with the Alam lab. 
 <img src='/images/ASM2023.png' width="60%" height="60%">\
