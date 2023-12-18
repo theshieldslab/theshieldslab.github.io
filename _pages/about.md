@@ -22,16 +22,16 @@ redirect_from:
 November was a busy month...
 
 We attended the ASM-SCB meeting in Little Rock with the Alam lab. 
-<img src='/images/ASM2023.png' width="60%" height="60%">\
+<img src='/images/ASM2023.png' width="60%" height="60%">
 
 Sangam and Andrew attended the annual Arkansas INBRE meeting in Fayettville. 
-<img src='/images/INBRE2023.png' width="60%" height="60%">\
+<img src='/images/INBRE2023.png' width="60%" height="60%">
 
 ### October 2023
 
 Andrew Goode, who is completing his senior honors thesis project in the lab, presented his data at the Arkansas Biosciences Institute Annual Symposium held at the Jack Stephens Spine and Neurosciences Institue, UAMS, Little Rock.
 
-<img src='/images/ABI_Andrew_2023.jpg' width="60%" height="60%">\
+<img src='/images/ABI_Andrew_2023.jpg' width="60%" height="60%">
 
 ### August 2023
 Jayson Smith (Nettleton High School) gained valuable hands-on research experience this summer as part of [ACS Project SEED](https://www.acs.org/education/students/highschool/seed.html). Jayson worked with Beatrice to 'knock out' three genes in S. mutans - which was a success!
