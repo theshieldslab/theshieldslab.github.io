@@ -29,7 +29,7 @@ Rostami N, Shields RC, Serrage HJ, Lawler C, Brittan JL, Yassin S, Ahmed H, True
 Walker AR & Shields RC\
 [Frontiers in Genetics](https://www.frontiersin.org/journals/genetics)
 
-Activation of TnSmu1, an integrative and conjugative element, by an ImmR-like transcriptional regulator in *Streptococcus mutans*](https://www.microbiologyresearch.org/content/journal/micro/10.1099/mic.0.001254)\
+[Activation of TnSmu1, an integrative and conjugative element, by an ImmR-like transcriptional regulator in *Streptococcus mutans*](https://www.microbiologyresearch.org/content/journal/micro/10.1099/mic.0.001254)\
 King S, Quick A, King K, Walker AR, & Shields RC\
 [Microbiology](https://www.microbiologyresearch.org/content/journal/micro)
 
