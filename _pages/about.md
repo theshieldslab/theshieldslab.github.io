@@ -20,9 +20,10 @@ redirect_from:
 ---
 ### November 2023
 
+We attended the ASM-SCB meeting in Little Rock with the Alam lab. 
 <img src='/images/ASM2023.png' width="60%" height="60%">\
 
-
+Sangam and Andrew attended the annual Arkansas INBRE meeting in Fayettville. 
 <img src='/images/INBRE2023.png' width="60%" height="60%">\
 
 ### October 2023
