@@ -16,7 +16,7 @@ I began my research in the Shields lab in October 2021 as a research technician 
 ### Graduate Students
 ---
 <img src='/images/Beatrice.jpg' width="15%">
-**Beatrice Rono - Molecular Biosciences Ph.D.**<br />
+### Beatrice Rono - Molecular Biosciences Ph.D.<br />
 I graduated with a bachelor's degree in Biomedical Sciences from the University of Eastern Africa, Baraton in Kenya, and a master's degree in Biology from Youngstown State University in Youngstown, OH. My master's degree focused on understating the genes that confer heavy metal resistance in *Enterobacter* sp. YSU (multi-metal resistant bacteria). I joined Arkansas State University fall of 2022 to pursue a Ph.D. in Molecular Biosciences. In Dr. Sheilds's research lab, I am currently cloning two genes of interest *immR* and *immA* from *S. mutans* UA159 to further analyze their roles as transcriptional regulators and protease, respectively. Apart from my interest in research, I enjoy cooking and trying out foods from different cultures and I also enjoy farming.
 
 <img src='/images/Dover.jpg' width="15%">
