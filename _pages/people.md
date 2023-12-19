@@ -37,12 +37,6 @@ I received my Bachelor of Science degree in Biochemistry from the University of 
 
 ## Undergraduate Research Students
 ---
-<img src='/images/Erin.jpg' width="15%">
-
-### Erin Pruitt - B.S. Biology<br />
-I'm a senior biology major, and I'm currently examining the inhibitory effects of compounds on the acid production of *S. mutans*. After graduating, I plan to continue my education through a nursing program. I like to draw, play video games, and read in my spare time.<br />
-<br />
-
 
 <img src='/images/IMG_7767_Original.jpg' width="15%">
 
@@ -50,8 +44,14 @@ I'm a senior biology major, and I'm currently examining the inhibitory effects o
 I am a senior biotechnology major from Arkansas State University Campus Queretaro in Mexico. I did an Internship during the summer of 2022 at the Autonomous University of Hidalgo State in the Academic Area of Veterinary Medicine and Zoo-techniques, working on the detection of enzymes produced during germination in wheat seeds. I am currently working as a Research Assistant in the Shields Molecular Microbiology Laboratory, constructing an ordered Tn library as a resource for the *S.mutans* community. This project was funded by the Arkansas IDeA Network of Biomedical Research Excellence (Arkansas INBRE).
 After graduating in December 2023, I am planning to pursue graduate school in the field of microbiology.<br />
 
+<img src='/images/manushi.jpeg' width="15%">
+
+### Manushi Pandey - B.S. Biotechnology<br />
+I'm a B.S. Biotechnology major, stepping into my junior year come Spring 2024. The world of research has always captivated me, and I'm thrilled  be a part of it. I love rewatching my all-time favorite series, The Big Bang Theory. My family is my biggest motivation, and I really enjoy spending time with them. I’m excited for the adventures ahead in both my academic and personal journey!<br /> 
+
 ## Alumni
 ---
+**Erin Pruitt** (Spring 2023) - B.S. Biology - Working on microbial bioinformatics using the tool ICEfinder to detect ICE/IMEs in *S. mutans* genomes\
 **Seth Woods** (Fall 2022) - B.S. Biology - Working on microbial bioinformatics using the tool ICEfinder to detect ICE/IMEs in *S. mutans* genomes\
 **Allison Quick** (Spring 2022) - B.S. Biology - Working on microbial bioinformatics using the tool ICEfinder to detect ICE/IMEs in *S. mutans* genomes\
 **Makenzie Rone** (Spring 2022) - B.S. Biology - Testing Arkansas soils for antibiotic producing bacteria, as well as testing Tiny Earth protocols\
