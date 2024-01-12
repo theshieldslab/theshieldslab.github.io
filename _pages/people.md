@@ -25,7 +25,7 @@ I graduated with a bachelor's degree in Biomedical Sciences from the University 
 <img src='/images/Dover.jpg' width="15%">
 
 ### Courtney Dover - M.S. Biology<br />
-My research involves the functional characterization of hypothetical essential genes in samples of Streptococcus mutans that have been modified using CRISPRi. When I'm not in the lab, you can find me crocheting, reading, or playing video games. After I graduate, I plan to pursue a PhD in Microbiology.<br />
+My research involves the functional characterization of hypothetical essential genes in samples of *Streptococcus mutans* that have been modified using CRISPRi. When I'm not in the lab, you can find me crocheting, reading, or playing video games. After I graduate, I plan to pursue a PhD in Microbiology.<br />
 <br />
 
 ## Medical Students
