@@ -28,6 +28,11 @@ I graduated with a bachelor's degree in Biomedical Sciences from the University 
 My research involves the functional characterization of hypothetical essential genes in samples of *Streptococcus mutans* that have been modified using CRISPRi. When I'm not in the lab, you can find me crocheting, reading, or playing video games. After I graduate, I plan to pursue a PhD in Microbiology.<br />
 <br />
 
+<img src='/images/IMG_7767_Original.jpg' width="15%">
+
+### Karen Solano - M.S. Biology<br />
+I am currently working in the Shields Molecular Microbiology Laboratory, constructing an ordered Tn library as a resource for the *S.mutans* community. This project was funded by the Arkansas IDeA Network of Biomedical Research Excellence (Arkansas INBRE). After graduating in December 2025, I am planning to pursue a Ph.D. in the field of microbiology.<br />
+
 ## Medical Students
 ---
 <img src='/images/Erica.jpg' width="15%">
@@ -42,12 +47,6 @@ I received my Bachelor of Science degree in Biochemistry from the University of 
 
 ### Sangam Chudal - B.S. Biotechnology<br />
 I am a B.S. Biotechnology major in my sophomore year at Arkansas State University. My research involves bypassing essential genes in *Streptococcus mutans* to discover potential gain-of-function mutants. I joined The Shields Lab as an undergraduate research student in June 2023. Apart from research, I love watching movies, TV shows and listening to music. My all-time favorite movie is Dead Poets Society.<br />
-
-<img src='/images/IMG_7767_Original.jpg' width="15%">
-
-### Karen Solano - B.S. Biotechnology<br />
-I am a senior biotechnology major from Arkansas State University Campus Queretaro in Mexico. I did an Internship during the summer of 2022 at the Autonomous University of Hidalgo State in the Academic Area of Veterinary Medicine and Zoo-techniques, working on the detection of enzymes produced during germination in wheat seeds. I am currently working as a Research Assistant in the Shields Molecular Microbiology Laboratory, constructing an ordered Tn library as a resource for the *S.mutans* community. This project was funded by the Arkansas IDeA Network of Biomedical Research Excellence (Arkansas INBRE).
-After graduating in December 2023, I am planning to pursue graduate school in the field of microbiology.<br />
 
 <img src='/images/manushi.jpeg' width="15%">
 
