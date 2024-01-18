@@ -7,6 +7,11 @@ author_profile: true
 <img src='/images/journals.png' width="70%" height="70%">
 
 <script type='text/javascript' src='https://d1bxh8uas1mnw7.cloudfront.net/assets/embed.js'></script>
+### 2024
+---
+[Effect of peanut stilbenoids, arachidin-1 and arachidin-3, on *Streptococcus mutans* growth and acid production](https://www.tandfonline.com/doi/full/10.1080/14786419.2024.2302316)\
+Reed KB, Pruitt E, KC HR, Sharma AR, Medina-Bolivar F, & Shields RC\
+[Natural Product Research](https://www.tandfonline.com/journals/gnpl20)
 
 ### 2023
 ---
