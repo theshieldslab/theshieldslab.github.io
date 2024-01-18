@@ -20,7 +20,7 @@ St. Pierre J, Roberts J, Alam MA, & Shields RC\
 [Microbiology Spectrum](https://journals.asm.org/journal/spectrum)
 
 [Development and antibacterial properties of 4-[4-(anilinomethyl)-3-phenylpyrazol-1-yl] benzoic acid derivatives as fatty acid biosynthesis inhibitors](https://pubs.acs.org/doi/full/10.1021/acs.jmedchem.3c00969)\
-Roy S, Kc HR, Roberts J, Hastings J, Gilmore DF, Shields RC, & Alam MA\
+Roy S, KC HR, Roberts J, Hastings J, Gilmore DF, Shields RC, & Alam MA\
 [Journal of Medicinal Chemistry](https://pubs.acs.org/journal/jmcmar)
 
 
