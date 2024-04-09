@@ -18,6 +18,10 @@ redirect_from:
 
 # Recent News
 ---
+### March 2024
+We had a great time at the IADR 2024 meeting in New Orleans!
+<img src='/images/IADR_2024.jpeg' width="60%" height="60%">
+
 ### November 2023
 November was a busy month...
 
