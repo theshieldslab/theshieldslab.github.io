@@ -52,6 +52,12 @@ I am a B.S. Biotechnology major in my sophomore year at Arkansas State Universit
 <br />
 <br />
 <br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
 <img align="left" src='/images/manushi.jpeg' width="15%">
 
 ### Manushi Pandey - B.S. Biotechnology<br />
