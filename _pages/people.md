@@ -23,7 +23,10 @@ Since graduating Arkansas State University in December 2021 with my degree in Bi
 ### Courtney Dover - M.S. Biology<br />
 My research involves the functional characterization of hypothetical essential genes in samples of *Streptococcus mutans* that have been modified using CRISPRi. When I'm not in the lab, you can find me crocheting, reading, or playing video games. After I graduate, I plan to pursue a PhD in Microbiology.<br />
 <br />
-
+<br />
+<br />
+<br />
+<br />
 <img align="left" src='/images/IMG_7767_Original.jpg' width="15%">
 
 ### Karen Solano - M.S. Biology<br />
