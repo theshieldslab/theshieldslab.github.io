@@ -26,12 +26,13 @@ My research involves the functional characterization of hypothetical essential g
 <br />
 <br />
 <br />
-<br />
+
 <img align="left" src='/images/IMG_7767_Original.jpg' width="15%">
 
 ### Karen Solano - M.S. Biology<br />
 I am currently working in the Shields Molecular Microbiology Laboratory, constructing an ordered Tn library as a resource for the *S.mutans* community. This project was funded by the Arkansas IDeA Network of Biomedical Research Excellence (Arkansas INBRE). After graduating in December 2025, I am planning to pursue a Ph.D. in the field of microbiology.<br />
-
+<br />
+<br />
 ## Medical Students
 ---
 <img src='/images/Erica.jpg' width="15%">
