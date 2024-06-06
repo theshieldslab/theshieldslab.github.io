@@ -17,18 +17,14 @@ Since graduating Arkansas State University in December 2021 with my degree in Bi
 
 ## Graduate Students
 ---
-<img src='/images/Beatrice.jpg' width="15%">
 
-### Beatrice Rono - Molecular Biosciences Ph.D.<br />
-I graduated with a bachelor's degree in Biomedical Sciences from the University of Eastern Africa, Baraton in Kenya, and a master's degree in Biology from Youngstown State University in Youngstown, OH. My master's degree focused on understating the genes that confer heavy metal resistance in *Enterobacter* sp. YSU (multi-metal resistant bacteria). I joined Arkansas State University fall of 2022 to pursue a Ph.D. in Molecular Biosciences. In Dr. Sheilds's research lab, I am currently cloning two genes of interest *immR* and *immA* from *S. mutans* UA159 to further analyze their roles as transcriptional regulators and protease, respectively. Apart from my interest in research, I enjoy cooking and trying out foods from different cultures and I also enjoy farming.
-
-<img src='/images/Dover.jpg' width="15%">
+<img align="left" src='/images/Dover.jpg' width="15%">
 
 ### Courtney Dover - M.S. Biology<br />
 My research involves the functional characterization of hypothetical essential genes in samples of *Streptococcus mutans* that have been modified using CRISPRi. When I'm not in the lab, you can find me crocheting, reading, or playing video games. After I graduate, I plan to pursue a PhD in Microbiology.<br />
 <br />
 
-<img src='/images/IMG_7767_Original.jpg' width="15%">
+<img align="left" src='/images/IMG_7767_Original.jpg' width="15%">
 
 ### Karen Solano - M.S. Biology<br />
 I am currently working in the Shields Molecular Microbiology Laboratory, constructing an ordered Tn library as a resource for the *S.mutans* community. This project was funded by the Arkansas IDeA Network of Biomedical Research Excellence (Arkansas INBRE). After graduating in December 2025, I am planning to pursue a Ph.D. in the field of microbiology.<br />
@@ -43,12 +39,12 @@ I received my Bachelor of Science degree in Biochemistry from the University of 
 ## Undergraduate Research Students
 ---
 
-<img src='/images/sangam.jpg' width="15%">
+<img align="left" src='/images/sangam.jpg' width="15%">
 
 ### Sangam Chudal - B.S. Biotechnology<br />
 I am a B.S. Biotechnology major in my sophomore year at Arkansas State University. My research involves bypassing essential genes in *Streptococcus mutans* to discover potential gain-of-function mutants. I joined The Shields Lab as an undergraduate research student in June 2023. Apart from research, I love watching movies, TV shows and listening to music. My all-time favorite movie is Dead Poets Society.<br />
 
-<img src='/images/manushi.jpeg' width="15%">
+<img align="left" src='/images/manushi.jpeg' width="15%">
 
 ### Manushi Pandey - B.S. Biotechnology<br />
 I'm a B.S. Biotechnology major, stepping into my junior year come Spring 2024. The world of research has always captivated me, and I'm thrilled  be a part of it. I love rewatching my all-time favorite series, The Big Bang Theory. My family is my biggest motivation, and I really enjoy spending time with them. I’m excited for the adventures ahead in both my academic and personal journey!<br /> 
