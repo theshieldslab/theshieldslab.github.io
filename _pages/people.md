@@ -47,7 +47,11 @@ I received my Bachelor of Science degree in Biochemistry from the University of 
 
 ### Sangam Chudal - B.S. Biotechnology<br />
 I am a B.S. Biotechnology major in my sophomore year at Arkansas State University. My research involves bypassing essential genes in *Streptococcus mutans* to discover potential gain-of-function mutants. I joined The Shields Lab as an undergraduate research student in June 2023. Apart from research, I love watching movies, TV shows and listening to music. My all-time favorite movie is Dead Poets Society.<br />
-
+<br />
+<br />
+<br />
+<br />
+<br />
 <img align="left" src='/images/manushi.jpeg' width="15%">
 
 ### Manushi Pandey - B.S. Biotechnology<br />
