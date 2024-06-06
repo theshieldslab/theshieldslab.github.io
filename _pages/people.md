@@ -57,12 +57,12 @@ I am a B.S. Biotechnology major in my sophomore year at Arkansas State Universit
 <br />
 <br />
 <br />
-<br />
 <img align="left" src='/images/manushi.jpeg' width="15%">
 
 ### Manushi Pandey - B.S. Biotechnology<br />
 I'm a B.S. Biotechnology major, stepping into my junior year come Spring 2024. The world of research has always captivated me, and I'm thrilled  be a part of it. I love rewatching my all-time favorite series, The Big Bang Theory. My family is my biggest motivation, and I really enjoy spending time with them. I’m excited for the adventures ahead in both my academic and personal journey!<br /> 
-
+<br />
+<br />
 ## Alumni
 ---
 **Erin Pruitt** (Spring 2023) - B.S. Biology - Working on microbial bioinformatics using the tool ICEfinder to detect ICE/IMEs in *S. mutans* genomes\
