@@ -5,10 +5,10 @@ author_profile: true
 ---
 <img align="left" src='/images/RCSPortrait.png' width="30%"> 
 
-### Robert Shields - Assistant Professor<br />               
-I earned my PhD in Microbiology at Newcastle University (United Kingdom) in Nick Jakubovics lab, where I worked on extracellular DNA in microbial biofilms, and potential control of biofilms with eDNA-degrading enzymes. In 
-August 2014 I moved to the USA where I worked in the lab of Bob Burne (University of Florida) on cell-cell communication and regulation of gene expression in *Streptococcus mutans*. I was hired as a Research Assistant 
-Professor in the Department of Oral Biology at UF in July 2017 and moved to Arkansas State to start my own lab in August 2021.
+  ### Robert Shields - Assistant Professor<br />               
+  I earned my PhD in Microbiology at Newcastle University (United Kingdom) in Nick Jakubovics lab, where I worked on extracellular DNA in microbial biofilms, and potential control of biofilms with eDNA-degrading enzymes. In 
+  August 2014 I moved to the USA where I worked in the lab of Bob Burne (University of Florida) on cell-cell communication and regulation of gene expression in *Streptococcus mutans*. I was hired as a Research Assistant 
+  Professor in the Department of Oral Biology at UF in July 2017 and moved to Arkansas State to start my own lab in August 2021.
 <br />
 <br />
 <br />
@@ -16,8 +16,10 @@ Professor in the Department of Oral Biology at UF in July 2017 and moved to Arka
 ---
 <img align="left" src='/images/photo for website.jpeg' width="15%">
 
->### Shawn King - Research Technician/Lab Manager<br />
->Since graduating Arkansas State University in December 2021 with my degree in Biological Sciences I have been working in the Shields research lab. I have gained many skills working in research, setting me up to apply to future >career jobs. My current project is investigating the function of an integrative and conjugative element (ICE) TnSmu1 located in *Streptococcus mutans* when exposed to DNA damaging agents such as Mitomycin C. In my spare time my >hobbies include cooking, reading, drawing, and PlayStation 5.
+  ### Shawn King - Research Technician/Lab Manager<br />
+  Since graduating Arkansas State University in December 2021 with my degree in Biological Sciences I have been working in the Shields research lab. I have gained many skills working in research, setting me up to apply to future 
+  career jobs. My current project is investigating the function of an integrative and conjugative element (ICE) TnSmu1 located in *Streptococcus mutans* when exposed to DNA damaging agents such as Mitomycin C. In my spare time my 
+  hobbies include cooking, reading, drawing, and PlayStation 5.
 <br />
 <br />
 ## Graduate Students
@@ -25,17 +27,14 @@ Professor in the Department of Oral Biology at UF in July 2017 and moved to Arka
 
 <img align="left" src='/images/Dover.jpg' width="15%">
 
-~~~
-**Courtney Dover - M.S. Biology**
-My research involves the functional characterization of hypothetical essential genes in samples of *Streptococcus mutans* that have been modified using CRISPRi. When I'm not in the lab, you can find me crocheting, reading, or 
-playing video games. After I graduate, I plan to pursue a PhD in Microbiology.
+  ## Courtney Dover - M.S. Biology
+  My research involves the functional characterization of hypothetical essential genes in samples of *Streptococcus mutans* that have been modified using CRISPRi. When I'm not in the lab, you can find me crocheting, reading, or 
+  playing video games. After I graduate, I plan to pursue a PhD in Microbiology.
 <br />
 <br />
 <br />
 <br />
-~~~
-<br />
-<br />
+
 <img align="left" src='/images/IMG_7767_Original.jpg' width="15%">
 
    ### Karen Solano - M.S. Biology<br />
