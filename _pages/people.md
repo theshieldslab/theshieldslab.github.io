@@ -16,10 +16,10 @@ author_profile: true
 ---
 <img align="left" src='/images/photo for website.jpeg' width="15%">
 
-  ### Shawn King - Research Technician/Lab Manager<br />
-  Since graduating Arkansas State University in December 2021 with my degree in Biological Sciences I have been working in the Shields research lab. I have gained many skills working in research, setting me up to apply to future 
-  career jobs. My current project is investigating the function of an integrative and conjugative element (ICE) TnSmu1 located in *Streptococcus mutans* when exposed to DNA damaging agents such as Mitomycin C. In my spare time my 
-  hobbies include cooking, reading, drawing, and PlayStation 5.
+<blockquote>### Shawn King - Research Technician/Lab Manager<br />
+Since graduating Arkansas State University in December 2021 with my degree in Biological Sciences I have been working in the Shields research lab. I have gained many skills working in research, setting me up to apply to future 
+career jobs. My current project is investigating the function of an integrative and conjugative element (ICE) TnSmu1 located in *Streptococcus mutans* when exposed to DNA damaging agents such as Mitomycin C. In my spare time my 
+hobbies include cooking, reading, drawing, and PlayStation 5.</blockquote>
 <br />
 <br />
 ## Graduate Students
