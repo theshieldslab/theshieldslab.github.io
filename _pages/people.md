@@ -3,7 +3,7 @@ layout: archive
 permalink: /people/
 author_profile: true
 ---
-| <img align="left" src='/images/RCSPortrait.png' width="30%"> | I am text to the right |
+<img align="left" src='/images/RCSPortrait.png' width="30%"> 
 
    ### Robert Shields - Assistant Professor<br />               
    I earned my PhD in Microbiology at Newcastle University (United Kingdom) in Nick Jakubovics lab, where I worked on extracellular DNA in microbial biofilms, and potential control of biofilms with eDNA-degrading enzymes. In 
