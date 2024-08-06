@@ -11,6 +11,7 @@ author_profile: true
    in the Department of Oral Biology at UF in July 2017 and moved to Arkansas State to start my own lab in August 2021.
 <br />
 <br />
+<br />
 ## Staff Members
 ---
 <img align="left" src='/images/photo for website.jpeg' width="15%">
