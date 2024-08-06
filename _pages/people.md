@@ -43,12 +43,13 @@ author_profile: true
 ---
 <img align="left" src='/images/Erica.jpg' width="25%">
 
-   ### Erica Lee - DO (NYIT at A-State)<br />
+   ### Erica Lee - DO (NYIT-COM at A-State)<br />
    I received my Bachelor of Science degree in Biochemistry from the University of Washington—Seattle in 2019. As an undergraduate student researcher, I joined Dr. Olivia Bermingham-McDonogh’s lab, studying the regeneration and 
    development of mice's inner ear, and Dr. Mary Lidstrom’s lab, studying molecular and metabolic manipulations of methylotrophic bacteria. In 2022, I joined Nanostring Technologies Inc. in developing their technology and assay 
    for studying spatial genomics. In August 2022, I joined the NYIT College of Osteopathic Medicine at Arkansas State University to pursue a career as an osteopathic physician. In November 2022, I joined Dr. Troy Camarata's lab to 
    study the regeneration and development of the kidney. In June 2023, I joined the Shields lab. Currently, I’m studying virulence factors within conjugative elements (ICEs and IMEs) in Streptococci species.<br />
-
+<br />
+<br />
 ## Undergraduate Research Students
 ---
 
