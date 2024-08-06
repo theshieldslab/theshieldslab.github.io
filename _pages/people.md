@@ -33,6 +33,8 @@ playing video games. After I graduate, I plan to pursue a PhD in Microbiology.
 <br />
 <br />
 <br />
+<br />
+<br />
 
 <img align="left" src='/images/IMG_7767_Original.jpg' width="15%">
 
