@@ -41,7 +41,7 @@ author_profile: true
 <br />
 ## Medical Students
 ---
-<img src='/images/Erica.jpg' width="15%">
+<img align="left" src='/images/Erica.jpg' width="15%">
 
    ### Erica Lee - DO (NYIT at A-State)<br />
    I received my Bachelor of Science degree in Biochemistry from the University of Washington—Seattle in 2019. As an undergraduate student researcher, I joined Dr. Olivia Bermingham-McDonogh’s lab, studying the regeneration and 
