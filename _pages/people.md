@@ -63,6 +63,8 @@ for studying spatial genomics. In August 2022, I joined the NYIT College of Oste
 study the regeneration and development of the kidney. In June 2023, I joined the Shields lab. Currently, I’m studying virulence factors within conjugative elements (ICEs and IMEs) in Streptococci species.<br />
 <br />
 <br />
+<br />
+<br />
 ## Undergraduate Research Students
 ---
 
@@ -85,6 +87,8 @@ Lab as an undergraduate research student in June 2023. Apart from research, I lo
 
 ### Emanuel Cazano - B.S. Biology<br />
 I am a Biology major with an emphasis on Pre-Professional Studies. I have been working in the Shields Molecular Microbiology Laboratory since January of 2024. I am working alongside others on a project to construct a Tn library to use as a resource for further studies of *S. mutans*. After graduating in December 2025, I plan on attending medical school to pursue my dream of becoming a physician. In my free time I enjoy running, biking, backpacking, and trout fishing.
+<br />
+<br />
 <br />
 <br />
 <br />
