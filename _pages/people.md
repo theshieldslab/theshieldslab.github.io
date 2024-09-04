@@ -13,7 +13,7 @@ Professor in the Department of Oral Biology at UF in July 2017 and moved to Arka
 <br />
 ## Staff Members
 ---
-<img align="left" src='/images/photo for website.jpeg' width="15%">
+<img align="left" src='/images/photo for website.jpeg' width="25%">
 
 ### Shawn King - Research Technician/Lab Manager
 Since graduating Arkansas State University in December 2021 with my degree in Biological Sciences I have been working in the Shields research lab. I have gained many skills working in research, setting me up to apply to future 
@@ -24,7 +24,7 @@ hobbies include cooking, reading, drawing, and PlayStation 5.
 ## Graduate Students
 ---
 
-<img align="left" src='/images/Bikash.JPG' width="25%">
+<img align="left" src='/images/Bikash.JPG' width="35%">
 
 ### Bikash Kumar Dwivedi - PhD Molecular Biosciences
 I have completed my undergraduate in Microbiology from St. Xavier's College, Kathmandu, Nepal. I developed this particular interest and passion to work on bacteria during my undergraduate studies. I worked on a project related to antibiotic resistance. Currently, I am pursuing my PhD in Molecular Biosciences in Dr. Shields laboratory. I will be working on TnSmu1, an ICE that has been discovered in *Streptococcus mutans*. I like watching sports, mainly cricket in my free time and newly released movies/series.
@@ -52,7 +52,7 @@ In the spring of 2024, I started my Master's in Biology with research focused on
 <br />
 ## Medical Students
 ---
-<img align="left" src='/images/Erica.jpg' width="25%">
+<img align="left" src='/images/Erica.jpg' width="35%">
 
 ### Erica Lee - DO (NYIT-COM at A-State)<br />
 I received my Bachelor of Science degree in Biochemistry from the University of Washington—Seattle in 2019. As an undergraduate student researcher, I joined Dr. Olivia Bermingham-McDonogh’s lab, studying the regeneration and  development of mice's inner ear, and Dr. Mary Lidstrom’s lab, studying molecular and metabolic manipulations of methylotrophic bacteria. In 2022, I joined Nanostring Technologies Inc. in developing their technology and assay 
