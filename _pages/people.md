@@ -32,7 +32,8 @@ hobbies include cooking, reading, drawing, and PlayStation 5.
 I have completed my undergraduate in Microbiology from St. Xavier's College, Kathmandu, Nepal. I developed this particular interest and passion to work on bacteria during my undergraduate studies. I worked on a project related to antibiotic resistance. Currently, I am pursuing my PhD in Molecular Biosciences in Dr. Shields laboratory. I will be working on TnSmu1, an ICE that has been discovered in *Streptococcus mutans*. I like watching sports, mainly cricket in my free time and newly released movies/series.
 <br />
 <br />
-
+<br />
+<br />
 <img align="left" src='/images/Dover.jpg' width="15%">
 
 ### Courtney Dover - M.S. Biology
