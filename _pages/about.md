@@ -20,7 +20,7 @@ redirect_from:
 ---
 ### September 2024
 
-We were recently awarded a 5-year R01 grant from the National Institue of Dental and Craniofacial Research!
+We were recently awarded a 5-year R01 grant from the National Institue of Dental and Craniofacial Research!\
 <img src='/images/R01_2024.jpg' width="60%" height="60%">
 
 ### March 2024
