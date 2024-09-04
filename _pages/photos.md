@@ -5,4 +5,4 @@ title: Photo Gallery
 author_profile: true
 ---
 
-<img src='/images/May2024.jpg' width="60%" height="60%">
+<img src='/images/May2024.jpg' width="40%" height="40%">
