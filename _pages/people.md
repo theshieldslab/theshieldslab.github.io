@@ -24,7 +24,7 @@ hobbies include cooking, reading, drawing, and PlayStation 5.
 ## Graduate Students
 ---
 
-<img align="left" src='/images/Bikash.JPG' width="15%">
+<img align="left" src='/images/Bikash.JPG' width="25%">
 
 ### Bikash Kumar Dwivedi - PhD Molecular Biosciences
 I have completed my undergraduate in Microbiology from St. Xavier's College, Kathmandu, Nepal. I developed this particular interest and passion to work on bacteria during my undergraduate studies. I worked on a project related to antibiotic resistance. Currently, I am pursuing my PhD in Molecular Biosciences in Dr. Shields laboratory. I will be working on TnSmu1 gene, ICEs that has been discovered in *Streptococcus mutans*. I like watching sports, mainly cricket in my free time and newly released movies/series.
