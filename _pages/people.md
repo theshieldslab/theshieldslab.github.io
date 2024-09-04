@@ -3,7 +3,7 @@ layout: archive
 permalink: /people/
 author_profile: true
 ---
-<img align="left" src='/images/RCSPortrait.png' width="20%"> 
+<img align="left" src='/images/RCSPortrait.png' width="35%"> 
 
 ### Robert Shields - Assistant Professor<br />               
 I earned my PhD in Microbiology at Newcastle University (United Kingdom) in Nick Jakubovics lab, where I worked on extracellular DNA in microbial biofilms, and potential control of biofilms with eDNA-degrading enzymes. In August 2014 I moved to the USA where I worked in the lab of Bob Burne (University of Florida) on cell-cell communication and regulation of gene expression in *Streptococcus mutans*. I was hired as a Research Assistant 
@@ -19,6 +19,8 @@ Professor in the Department of Oral Biology at UF in July 2017 and moved to Arka
 Since graduating Arkansas State University in December 2021 with my degree in Biological Sciences I have been working in the Shields research lab. I have gained many skills working in research, setting me up to apply to future 
 career jobs. My current project is investigating the function of an integrative and conjugative element (ICE) TnSmu1 located in *Streptococcus mutans* when exposed to DNA damaging agents such as Mitomycin C. In my spare time my 
 hobbies include cooking, reading, drawing, and PlayStation 5.
+<br />
+<br />
 <br />
 <br />
 ## Graduate Students
@@ -78,7 +80,7 @@ Lab as an undergraduate research student in June 2023. Apart from research, I lo
 <br />
 <br />
 
-<img align="left" src='/images/Cazano.jpg' width="15%">
+<img align="left" src='/images/Cazano.jpg' width="25%">
 
 ### Emanuel Cazano - B.S. Biology<br />
 I am a Biology major with an emphasis on Pre-Professional Studies. I have been working in the Shields Molecular Microbiology Laboratory since January of 2024. I am working alongside others on a project to construct a Tn library to use as a resource for further studies of *S. mutans*. After graduating in December 2025, I plan on attending medical school to pursue my dream of becoming a physician. In my free time I enjoy running, biking, backpacking, and trout fishing.
