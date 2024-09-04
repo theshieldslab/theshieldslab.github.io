@@ -27,7 +27,9 @@ hobbies include cooking, reading, drawing, and PlayStation 5.
 <img align="left" src='/images/Bikash.JPG' width="25%">
 
 ### Bikash Kumar Dwivedi - PhD Molecular Biosciences
-I have completed my undergraduate in Microbiology from St. Xavier's College, Kathmandu, Nepal. I developed this particular interest and passion to work on bacteria during my undergraduate studies. I worked on a project related to antibiotic resistance. Currently, I am pursuing my PhD in Molecular Biosciences in Dr. Shields laboratory. I will be working on TnSmu1 gene, ICEs that has been discovered in *Streptococcus mutans*. I like watching sports, mainly cricket in my free time and newly released movies/series.
+I have completed my undergraduate in Microbiology from St. Xavier's College, Kathmandu, Nepal. I developed this particular interest and passion to work on bacteria during my undergraduate studies. I worked on a project related to antibiotic resistance. Currently, I am pursuing my PhD in Molecular Biosciences in Dr. Shields laboratory. I will be working on TnSmu1, an ICE that has been discovered in *Streptococcus mutans*. I like watching sports, mainly cricket in my free time and newly released movies/series.
+<br />
+<br />
 
 <img align="left" src='/images/Dover.jpg' width="15%">
 
@@ -80,6 +82,8 @@ Lab as an undergraduate research student in June 2023. Apart from research, I lo
 
 ### Emanuel Cazano - B.S. Biology<br />
 I am a Biology major with an emphasis on Pre-Professional Studies. I have been working in the Shields Molecular Microbiology Laboratory since January of 2024. I am working alongside others on a project to construct a Tn library to use as a resource for further studies of *S. mutans*. After graduating in December 2025, I plan on attending medical school to pursue my dream of becoming a physician. In my free time I enjoy running, biking, backpacking, and trout fishing.
+<br />
+<br />
 
 ## Alumni
 ---
