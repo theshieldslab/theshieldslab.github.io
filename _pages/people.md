@@ -87,7 +87,8 @@ Lab as an undergraduate research student in June 2023. Apart from research, I lo
 I am a Biology major with an emphasis on Pre-Professional Studies. I have been working in the Shields Molecular Microbiology Laboratory since January of 2024. I am working alongside others on a project to construct a Tn library to use as a resource for further studies of *S. mutans*. After graduating in December 2025, I plan on attending medical school to pursue my dream of becoming a physician. In my free time I enjoy running, biking, backpacking, and trout fishing.
 <br />
 <br />
-
+<br />
+<br />
 ## Alumni
 ---
 **Tessa Holcomb** (Summer 2024) - B.S. Biology\
