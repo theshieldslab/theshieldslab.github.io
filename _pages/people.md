@@ -87,11 +87,16 @@ I am a Biology major with an emphasis on Pre-Professional Studies. I have been w
 
 ## Alumni
 ---
-**Erin Pruitt** (Spring 2023) - B.S. Biology - Working on microbial bioinformatics using the tool ICEfinder to detect ICE/IMEs in *S. mutans* genomes\
-**Seth Woods** (Fall 2022) - B.S. Biology - Working on microbial bioinformatics using the tool ICEfinder to detect ICE/IMEs in *S. mutans* genomes\
-**Allison Quick** (Spring 2022) - B.S. Biology - Working on microbial bioinformatics using the tool ICEfinder to detect ICE/IMEs in *S. mutans* genomes\
-**Makenzie Rone** (Spring 2022) - B.S. Biology - Testing Arkansas soils for antibiotic producing bacteria, as well as testing Tiny Earth protocols\
-**Bryant Reed** (Spring 2022) - B.S. Biotechnology - Investigated the inhibitory effects of stilbenes (natural products produced by plant roots) on *S. mutans*\
-**Jackson St. Pierre** (Fall 2021) - B.S. Biology - Worked on TnSmu1 conjugation efficiency assays and lab chemical organization\
-**Shawn King** (Fall 2021) - B.S. Biology - Screened antimicrobial pyrazole compounds against *S. mutans*\
-**Kalee King** (Fall 2021) - B.S. Biology - Worked on TnSmu1 conjugation efficiency assays
+**Tessa Holcomb** (Summer 2024) - B.S. Biology\
+**Adrionna Dollison** (Summer 2024) - Jonesboro High School\
+**Emilio Soriano Chavez** (Spring 2024) - B.S. Biotechnology\
+**Andrew Goode** (Spring 2024) - B.S. Biology\
+**Jayson Smith** (Summer 2023) - Nettleton High School\
+**Erin Pruitt** (Spring 2023) - B.S. Biology\
+**Seth Woods** (Fall 2022) - B.S. Biology\
+**Allison Quick** (Spring 2022) - B.S. Biology\
+**Makenzie Rone** (Spring 2022) - B.S. Biology\
+**Bryant Reed** (Spring 2022) - B.S. Biotechnology\
+**Jackson St. Pierre** (Fall 2021) - B.S. Biology\
+**Shawn King** (Fall 2021) - B.S. Biology\
+**Kalee King** (Fall 2021) - B.S. Biology
