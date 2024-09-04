@@ -24,6 +24,11 @@ hobbies include cooking, reading, drawing, and PlayStation 5.
 ## Graduate Students
 ---
 
+<img align="left" src='/images/Bikash.JPG' width="15%">
+
+### Bikash Kumar Dwivedi - PhD Molecular Biosciences
+I have completed my undergraduate in Microbiology from St. Xavier's College, Kathmandu, Nepal. I developed this particular interest and passion to work on bacteria during my undergraduate studies. I worked on a project related to antibiotic resistance. Currently, I am pursuing my PhD in Molecular Biosciences in Dr. Shields laboratory. I will be working on TnSmu1 gene, ICEs that has been discovered in *Streptococcus mutans*. I like watching sports, mainly cricket in my free time and newly released movies/series.
+
 <img align="left" src='/images/Dover.jpg' width="15%">
 
 ### Courtney Dover - M.S. Biology
@@ -39,8 +44,8 @@ playing video games. After I graduate, I plan to pursue a PhD in Microbiology.
 <img align="left" src='/images/IMG_7767_Original.jpg' width="15%">
 
 ### Karen Solano - M.S. Biology<br />
-I am currently working in the Shields Molecular Microbiology Laboratory, constructing an ordered Tn library as a resource for the *S.mutans* community. This project was funded by the Arkansas IDeA Network of Biomedical Research 
-Excellence (Arkansas INBRE). After graduating in December 2025, I am planning to pursue a Ph.D. in the field of microbiology.<br />
+I graduated with a Bachelor's in Biotechnology from the A-State campus in Queretaro, Mexico, in 2023. In spring 2023, I joined the Shields Lab as an undergraduate student while participating in an exchange program.
+In the spring of 2024, I started my Master's in Biology with research focused on the construction and sequencing of an arrayed Tn library as a resource for the *S. mutans* community. After graduating in December 2025, I plan to pursue a Ph.D. in microbiology.<br />
 <br />
 <br />
 ## Medical Students
@@ -70,13 +75,12 @@ Lab as an undergraduate research student in June 2023. Apart from research, I lo
 <br />
 <br />
 <br />
-<img align="left" src='/images/manushi.jpeg' width="15%">
 
-### Manushi Pandey - B.S. Biotechnology<br />
-I'm a B.S. Biotechnology major, stepping into my junior year come Spring 2024. The world of research has always captivated me, and I'm thrilled  be a part of it. I love rewatching my all-time favorite series, The Big Bang 
-Theory. My family is my biggest motivation, and I really enjoy spending time with them. I’m excited for the adventures ahead in both my academic and personal journey!<br /> 
-<br />
-<br />
+<img align="left" src='/images/Cazano.jpg' width="15%">
+
+### Emanuel Cazano - B.S. Biology<br />
+I am a Biology major with an emphasis on Pre-Professional Studies. I have been working in the Shields Molecular Microbiology Laboratory since January of 2024. I am working alongside others on a project to construct a Tn library to use as a resource for further studies of *S. mutans*. After graduating in December 2025, I plan on attending medical school to pursue my dream of becoming a physician. In my free time I enjoy running, biking, backpacking, and trout fishing.
+
 ## Alumni
 ---
 **Erin Pruitt** (Spring 2023) - B.S. Biology - Working on microbial bioinformatics using the tool ICEfinder to detect ICE/IMEs in *S. mutans* genomes\
