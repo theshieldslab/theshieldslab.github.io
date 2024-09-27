@@ -19,7 +19,7 @@ redirect_from:
 # Recent News
 ---
 ### September 2024
-Rob was given the Arkansas Biosciences Insitute New Investigator Award for 2024. Many thanks to the ABI and Dr. Bobby McGehee\
+Rob was given the Arkansas Biosciences Insitute New Investigator Award for 2024. Many thanks to the ABI and Dr. Bobby McGehee.\
 <img src='/images/ABI2024.jpeg' width="60%" height="60%">
 
 ### September 2024
