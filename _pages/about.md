@@ -18,6 +18,10 @@ redirect_from:
 
 # Recent News
 ---
+### October 2024
+The lab was awarded a 3-year R15 grant from the National Institute of Dental and Craniofacial Research!\
+<img src='/images/R15_photo.jpg' width="60%" height="60%">
+
 ### September 2024
 Rob was given the Arkansas Biosciences Insitute New Investigator Award for 2024. Many thanks to the ABI and Dr. Bobby McGehee.\
 <img src='/images/ABI2024.jpeg' width="60%" height="60%">
