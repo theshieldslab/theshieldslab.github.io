@@ -18,6 +18,11 @@ redirect_from:
 
 # Recent News
 ---
+### November 2024
+Students presented at the regional ASM meeting and the annual Arkansas INBRE meeting.\
+<img src='/images/INBRE2024.png' width="60%" height="60%">
+<img src='/images/ASMSCB2024.png' width="60%" height="60%">
+
 ### October 2024
 The lab was awarded a 3-year R15 grant from the National Institute of Dental and Craniofacial Research!\
 <img src='/images/R15_photo.jpg' width="60%" height="60%">
