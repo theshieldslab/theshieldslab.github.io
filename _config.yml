@@ -83,7 +83,7 @@ analytics:
 # Site Author
 author:
   name             : 
-  avatar           : "UF_logo.png"
+  avatar           : "<img src="UF_logo.png" width="300" height="200">"
   location         :
   bio              : "We are a molecular microbiology lab interested in streptococcal genetics.<br><br>
                     Funding provided by:<hr>
