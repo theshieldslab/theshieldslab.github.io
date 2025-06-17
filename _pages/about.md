@@ -6,7 +6,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-**The Shields Lab in the [Department of Oral Biology](http://www.astate.edu/college/sciences-and-mathematics/departments/biology/](https://dental.ufl.edu/departments/oral-biology/) at the [University of Florida](https://www.ufl.edu/) investigates *Streptococcus mutans* physiology using functional genomics techniques (Tn-seq, CRISPRi, etc). *Streptococcus mutans* infections are a significant problem in dental health, as they help cause tooth decay. The end goal is to develop novel antimicrobials to kill *Streptococcus mutans*.**
+**The Shields Lab in the [Department of Oral Biology](https://dental.ufl.edu/departments/oral-biology/) at the [University of Florida](https://www.ufl.edu/) investigates *Streptococcus mutans* physiology using functional genomics techniques (Tn-seq, CRISPRi, etc). *Streptococcus mutans* infections are a significant problem in dental health, as they help cause tooth decay. The end goal is to develop novel antimicrobials to kill *Streptococcus mutans*.**
 
 ### Latest Publication(s)/Preprint(s)
 [Genomic analysis of conjugative and chromosomally integrated mobile genetic elements in oral streptococci](https://journals.asm.org/doi/full/10.1128/aem.01360-24)
