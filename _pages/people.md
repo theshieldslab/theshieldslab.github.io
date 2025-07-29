@@ -9,6 +9,9 @@ Professor in the Department of Oral Biology at UF in July 2017 and moved to Arka
 
 ## Graduate Students
 ---
+### Indumini Balasuriya - PhD Biomedical Sciences
+I completed my B.S. in Microbiology and Biotechnology from Edinburgh Napier University, UK, studying at its affiliated institute in Sri Lanka, the Spectrum Institute of Science and Technology. I conducted a research project exploring the immunomodulatory properties of Cucumis melo fruit extract, more of a biotechnological research topic and later gained hands-on experience in a CAP-accredited clinical laboratory, Lanka Hospital Diagnostics, working in the microbiology department. Currently, I’m pursuing my PhD in Immunology and Microbiology in Dr. Shields’ lab at the Department of Oral Biology, UF. My research focuses on understanding the regulatory mechanisms that control the excision and transfer of TnSmu1, an integrative and conjugative element (ICE) found in *Streptococcus mutans*.
+
 ### Bikash Kumar Dwivedi - PhD Biomedical Sciences
 I have completed my undergraduate in Microbiology from St. Xavier's College, Kathmandu, Nepal. I developed this particular interest and passion to work on bacteria during my undergraduate studies. I worked on a project related to antibiotic resistance. Currently, I am pursuing my PhD in Biomedical Sciences in Dr. Shields laboratory. I will be working on TnSmu1, an ICE that has been discovered in *Streptococcus mutans*. I like watching sports, mainly cricket in my free time and newly released movies/series.
 
