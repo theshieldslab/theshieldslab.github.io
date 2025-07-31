@@ -10,7 +10,7 @@ author_profile: true
 
 ### 2025
 ---
-[Post-translational modifications via serine/threonine phosphorylation and GpsB in Streptococcus mutans](https://www.biorxiv.org/content/10.1101/2025.07.25.666849v1.abstract)\
+[Post-translational modifications via serine/threonine phosphorylation and GpsB in *Streptococcus mutans*](https://www.biorxiv.org/content/10.1101/2025.07.25.666849v1.abstract)\
 Chudal S, Dover D, Haydt T, King S, & Shields RC\
 [bioRxiv](https://www.biorxiv.org/)
 
@@ -18,21 +18,21 @@ Chudal S, Dover D, Haydt T, King S, & Shields RC\
 Renno AJ, Shields RC, & McLellan LK\
 [Journal of Bacteriology](https://journals.asm.org/journal/jb)
 
-[Characterization of MreCD in Streptococcus mutans](https://www.tandfonline.com/doi/full/10.1080/20002297.2025.2487643)\
+[Characterization of MreCD in *Streptococcus mutans*](https://www.tandfonline.com/doi/full/10.1080/20002297.2025.2487643)\
 Chan V, Holcomb T, Kaspar JR, & Shields RC\
 [Journal of Oral Microbiology](https://www.tandfonline.com/journals/zjom20)
 
-[Enhanced production of anti-inflammatory and antibacterial prenylated isoflavonoids in pigeon pea (Cajanus cajan) hairy root cultures](https://pubs.acs.org/doi/abs/10.1021/acs.jafc.4c12406)\
+[Enhanced production of anti-inflammatory and antibacterial prenylated isoflavonoids in pigeon pea (*Cajanus cajan*) hairy root cultures](https://pubs.acs.org/doi/abs/10.1021/acs.jafc.4c12406)\
 Gajurel G, Sharma AR, Abdel-Karim S, Balmaceda C, Zulfiqar F, Pandey P, Ali Z, Shields RC, Alam MA, & Medina-Bolivar F\
 [Journal of Agricultural and Food Chemistry](https://pubs.acs.org/journal/jafcau?ref=breadcrumb)
 
-[Production of malheuran A, a geranylated flavonoid with antimicrobial and anti-inflammatory activities, in hairy root cultures of Dalea purpurea](https://www.mdpi.com/2223-7747/14/2/259)\
+[Production of malheuran A, a geranylated flavonoid with antimicrobial and anti-inflammatory activities, in hairy root cultures of *Dalea purpurea*](https://www.mdpi.com/2223-7747/14/2/259)\
 Sharma AR, Gajurel G, Abdel-Karim S, Alam MA, Shields RC, & Medina-Bolivar F\
 [Plants](https://www.mdpi.com/journal/plants)
 
 ### 2024
 ---
-[MecA in Streptococcus mutans is a multi-functional protein](https://journals.asm.org/doi/full/10.1128/msphere.00308-24)\
+[MecA in *Streptococcus mutans* is a multi-functional protein](https://journals.asm.org/doi/full/10.1128/msphere.00308-24)\
 Ellepola E, Shields RC, Kajfasz JK, Zhang H, Lemos JA, Wu H, & Wen ZT\
 [mSphere](https://journals.asm.org/journal/msphere)
 
