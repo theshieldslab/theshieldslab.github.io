@@ -8,8 +8,38 @@ author_profile: true
 
 <script type='text/javascript' src='https://d1bxh8uas1mnw7.cloudfront.net/assets/embed.js'></script>
 
+### 2025
+---
+[Post-translational modifications via serine/threonine phosphorylation and GpsB in Streptococcus mutans](https://www.biorxiv.org/content/10.1101/2025.07.25.666849v1.abstract)\
+Chudal S, Dover D, Haydt T, King S, & Shields RC\
+[bioRxiv](https://www.biorxiv.org/)
+
+[Bacterial evolution in the oral microbiome: the role of conjugative elements and horizontal gene transfer](https://journals.asm.org/doi/full/10.1128/jb.00066-25)\
+Renno AJ, Shields RC, & McLellan LK\
+[Journal of Bacteriology](https://journals.asm.org/journal/jb)
+
+[Characterization of MreCD in Streptococcus mutans](https://www.tandfonline.com/doi/full/10.1080/20002297.2025.2487643)\
+Chan V, Holcomb T, Kaspar JR, & Shields RC\
+[Journal of Oral Microbiology](https://www.tandfonline.com/journals/zjom20)
+
+[Enhanced production of anti-inflammatory and antibacterial prenylated isoflavonoids in pigeon pea (Cajanus cajan) hairy root cultures](https://pubs.acs.org/doi/abs/10.1021/acs.jafc.4c12406)\
+Gajurel G, Sharma AR, Abdel-Karim S, Balmaceda C, Zulfiqar F, Pandey P, Ali Z, Shields RC, Alam MA, & Medina-Bolivar F\
+[Journal of Agricultural and Food Chemistry](https://pubs.acs.org/journal/jafcau?ref=breadcrumb)
+
+[Production of malheuran A, a geranylated flavonoid with antimicrobial and anti-inflammatory activities, in hairy root cultures of Dalea purpurea](https://www.mdpi.com/2223-7747/14/2/259)\
+Sharma AR, Gajurel G, Abdel-Karim S, Alam MA, Shields RC, & Medina-Bolivar F\
+[Plants](https://www.mdpi.com/journal/plants)
+
 ### 2024
 ---
+[MecA in Streptococcus mutans is a multi-functional protein](https://journals.asm.org/doi/full/10.1128/msphere.00308-24)\
+Ellepola E, Shields RC, Kajfasz JK, Zhang H, Lemos JA, Wu H, & Wen ZT\
+[mSphere](https://journals.asm.org/journal/msphere)
+
+[Genomic analysis of conjugative and chromosomally integrated mobile genetic elements in oral streptococci](https://journals.asm.org/doi/full/10.1128/aem.01360-24)\
+Lee E, Priutt E, Woods S, Quick A, King S, McLellan LK, & Shields RC\
+[Applied and Environmental Microbiology](https://aem.asm.org/) 
+
 [Effect of peanut stilbenoids, arachidin-1 and arachidin-3, on *Streptococcus mutans* growth and acid production](https://www.tandfonline.com/doi/full/10.1080/14786419.2024.2302316)\
 Reed KB, Pruitt E, KC HR, Sharma AR, Medina-Bolivar F, & Shields RC\
 [Natural Product Research](https://www.tandfonline.com/journals/gnpl20)
