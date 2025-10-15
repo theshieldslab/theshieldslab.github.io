@@ -19,6 +19,11 @@ I have completed my undergraduate in Microbiology from St. Xavier's College, Kat
 I graduated with a Bachelor's in Biotechnology from the A-State campus in Queretaro, Mexico, in 2023. In spring 2023, I joined the Shields Lab as an undergraduate student while participating in an exchange program.
 In the spring of 2024, I started my Master's in Biology with research focused on the construction and sequencing of an arrayed Tn library as a resource for the *S. mutans* community. After graduating in December 2025, I plan to pursue a Ph.D. in microbiology.<br />
 
+## Undergraduate Students
+---
+### Kelvin Gonzalez - B.S. Microbiology and Health Education<br />
+I’m an undergraduate student at the University of Florida double majoring in Microbiology and Health Education. I joined the Shields Lab in Fall 2025. I’ve always been interested in research, and after working in a fruit fly genetics lab and completing a summer research program at the NYU College of Dentistry, I fell in love with it and wanted to continue doing research that connects more to my interests in dentistry. In my free time, I enjoy running, crocheting, and watching movies. After graduation, I plan to attend dental school and continue doing research there.
+
 ## Alumni
 ---
 **Tiffany Haydt** - Research Technician (Summer 2025) - East Asian Studies UNC-Chapel Hill\
