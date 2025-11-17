@@ -10,9 +10,9 @@ author_profile: true
 
 ### 2025
 ---
-[Post-translational modifications via serine/threonine phosphorylation and GpsB in *Streptococcus mutans*](https://www.biorxiv.org/content/10.1101/2025.07.25.666849v1.abstract)\
+[Post-translational modifications via serine/threonine phosphorylation and GpsB in *Streptococcus mutans*](https://journals.asm.org/doi/full/10.1128/msystems.01105-25)\
 Chudal S, Dover D, Haydt T, King S, & Shields RC\
-[bioRxiv](https://www.biorxiv.org/)
+[mSystems](https://journals.asm.org/journal/msystems)
 
 [Bacterial evolution in the oral microbiome: the role of conjugative elements and horizontal gene transfer](https://journals.asm.org/doi/full/10.1128/jb.00066-25)\
 Renno AJ, Shields RC, & McLellan LK\
