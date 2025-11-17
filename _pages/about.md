@@ -16,6 +16,11 @@ redirect_from:
 
 # Recent News
 ---
+### May 2025
+Courtney Dover completed her M.S. Biology degree and graduated! Congratulations Courtney!
+<img src='/images/CDgrad.jpg' width="60%" height="60%">
+
+
 ### November 2024
 Students presented at the regional ASM meeting and the annual Arkansas INBRE meeting.\
 <img src='/images/INBRE2024.png' width="60%" height="60%">
