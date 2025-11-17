@@ -9,11 +9,9 @@ redirect_from:
 **The Shields Lab in the [Department of Oral Biology](https://dental.ufl.edu/departments/oral-biology/) at the [University of Florida](https://www.ufl.edu/) investigates *Streptococcus mutans* physiology using functional genomics techniques (Tn-seq, CRISPRi, etc). *Streptococcus mutans* infections are a significant problem in dental health, as they help cause tooth decay. The end goal is to develop novel antimicrobials to kill *Streptococcus mutans*.**
 
 ### Latest Publication(s)/Preprint(s)
+[Post-translational modifications via serine/threonine phosphorylation and GpsB in *Streptococcus mutans*](https://journals.asm.org/doi/full/10.1128/msystems.01105-25)
+
 [Genomic analysis of conjugative and chromosomally integrated mobile genetic elements in oral streptococci](https://journals.asm.org/doi/full/10.1128/aem.01360-24)
-
-[Effect of peanut stilbenoids, arachidin-1 and arachidin-3, on *Streptococcus mutans* growth and acid production](https://www.tandfonline.com/doi/full/10.1080/14786419.2024.2302316)
-
-[Construction of an arrayed CRISPRi library as a resource for essential gene function studies in Streptococcus mutans](https://journals.asm.org/doi/pdf/10.1128/spectrum.03149-23)
 
 
 # Recent News
