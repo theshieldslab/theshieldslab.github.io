@@ -16,10 +16,13 @@ redirect_from:
 
 # Recent News
 ---
+### June 2025
+The lab has moved to the University of Florida. Go Gators!
+<img src='/images/UFcampus.png' width="60%" height="60%">
+
 ### May 2025
 Courtney Dover completed her M.S. Biology degree and graduated! Congratulations Courtney!
 <img src='/images/CDgrad.jpg' width="60%" height="60%">
-
 
 ### November 2024
 Students presented at the regional ASM meeting and the annual Arkansas INBRE meeting.\
