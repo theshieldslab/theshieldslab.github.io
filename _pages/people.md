@@ -9,6 +9,9 @@ Professor in the Department of Oral Biology at UF in July 2017 and moved to Arka
 
 ## Staff
 ---
+### Luana Dias - Postdoctoral Associate
+I am a Doctor of Dental Surgery (DDS), graduated in 2017, with an internship period at UCSD Health Sciences (San Diego, USA), and hold a Master’s and PhD in Oral Rehabilitation from São Paulo State University (UNESP-Araraquara), Brazil, granted through a cotutelle/dual-degree program with the College of Dentistry at the University of Saskatchewan, Canada (2020–2025). My research focuses on oral microbiology, molecular biology, and cell culture. I have received the IADR Colgate Award for Research in Microbiology and had the privilege of co-mentoring over 15 dental research students across Brazil and Canada. My expertise aims to strengthen translational and interdisciplinary research in oral health, bridging basic science discoveries into clinical applications.
+
 ### Kipa Tamrakar - Biological Scientist
 I am a Biological Scientist in Dr. Robert Shields’ lab at the University of Florida. I earned my MS degree in Molecular Biosciences at Arkansas State University, where I studied microbial interaction in soybean plant.  My current work focuses on construction of a comprehensive mutant library of Streptococcus mutans to characterize essential genes involved in protein post-translational modification. Broadly, I am interested in how genetic mechanisms influence microbial behavior in the host. Outside the lab, I enjoy cooking and travelling. 
 
