@@ -13,6 +13,9 @@ author_profile: true
 Budhathoki S, Roberts J, Roy S, Koizumi H, Gajurel G, Medina-Bolivar F, Merten J, Rougeau B, Milad M, Basnakian A, Shields RC, & Alam MA\
 [chemRxiv](https://chemrxiv.org/engage/chemrxiv/public-dashboard)
 
+[High-level production of antibacterial pentacyclic triterpenoids from hairy roots cultures of Bixa orellana via abiotic elicitation](https://www.sciencedirect.com/science/article/pii/S0926669025020989)\
+Gajurel G, Sharma AR, Abdel-Karim S, Balmaceda C, Roy S, Vargas J, Shields RC, Alam MA, & Medina-Bolivar F\
+[Industrial Crops and Products](https://www.sciencedirect.com/journal/industrial-crops-and-products)
 
 ### 2025
 ---
