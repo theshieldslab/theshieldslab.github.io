@@ -7,6 +7,12 @@ author_profile: true
 <img src='/images/journals.png' width="70%" height="70%">
 
 <script type='text/javascript' src='https://d1bxh8uas1mnw7.cloudfront.net/assets/embed.js'></script>
+### 2026
+---
+[Design, synthesis, and development of 4-[2-[3,5-Bis(trifluoromethyl)anilino]thiazolo-4-yl]phenol to clear MRSA infection](https://chemrxiv.org/engage/chemrxiv/article-details/69607a0bff1c4bced42b7664)\
+Budhathoki S, Roberts J, Roy S, Koizumi H, Gajurel G, Medina-Bolivar F, Merten J, Rougeau B, Milad M, Basnakian A, Shields RC, & Alam MA\
+[chemRxiv](https://chemrxiv.org/engage/chemrxiv/public-dashboard)
+
 
 ### 2025
 ---
