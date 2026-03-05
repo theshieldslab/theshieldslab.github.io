@@ -1,4 +1,4 @@
----
+<img width="468" height="25" alt="image" src="https://github.com/user-attachments/assets/b5085552-7057-49f0-86a3-e0079e457c1c" />---
 layout: archive
 permalink: /publications/
 author_profile: true
@@ -9,6 +9,10 @@ author_profile: true
 <script type='text/javascript' src='https://d1bxh8uas1mnw7.cloudfront.net/assets/embed.js'></script>
 ### 2026
 ---
+[Late-Stage Diversification of the Rifamycin Core via Click Chemistry to Target Deadly Pathogens](https://www.mdpi.com/1420-3049/31/5/847)\
+Beeser L, Armstrong D, Fullerton MS, Beasley I, Treadway W, Nikkel C, Glenn B, Mills C, Ho ML, Budhathoki S, Parchman J, Holdiness R, Smith J, Hodge Z, Dragan AL, Alam MA, Shields RC, Voth DE, & Nawarathne IN\
+[Molecules](https://www.mdpi.com/journal/molecules)
+
 [Design, synthesis, and development of 4-[2-[3,5-Bis(trifluoromethyl)anilino]thiazolo-4-yl]phenol to clear MRSA infection](https://chemrxiv.org/engage/chemrxiv/article-details/69607a0bff1c4bced42b7664)\
 Budhathoki S, Roberts J, Roy S, Koizumi H, Gajurel G, Medina-Bolivar F, Merten J, Rougeau B, Milad M, Basnakian A, Shields RC, & Alam MA\
 [chemRxiv](https://chemrxiv.org/engage/chemrxiv/public-dashboard)
