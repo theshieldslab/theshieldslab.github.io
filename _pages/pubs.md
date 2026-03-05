@@ -9,7 +9,7 @@ author_profile: true
 <script type='text/javascript' src='https://d1bxh8uas1mnw7.cloudfront.net/assets/embed.js'></script>
 ### 2026
 ---
-[Late-Stage Diversification of the Rifamycin Core via Click Chemistry to Target Deadly Pathogens](https://www.mdpi.com/1420-3049/31/5/847)\
+[Late-stage diversification of the rifamycin core via click chemistry to target deadly pathogens](https://www.mdpi.com/1420-3049/31/5/847)\
 Beeser L, Armstrong D, Fullerton MS, Beasley I, Treadway W, Nikkel C, Glenn B, Mills C, Ho ML, Budhathoki S, Parchman J, Holdiness R, Smith J, Hodge Z, Dragan AL, Alam MA, Shields RC, Voth DE, & Nawarathne IN\
 [Molecules](https://www.mdpi.com/journal/molecules)
 
