@@ -13,30 +13,12 @@ Below is a simple diagram explaining the process of caries which is predominatel
 
 ## Our Approach
 
-The long-term goal of the lab is to understand how [*Streptococcus mutans*](https://en.wikipedia.org/wiki/Streptococcus_mutans) causes tooth decay. This includes addressing which genes are essential for pathogenesis, and what is the role of other bacteria in promoting or reducing *S. mutans* colonization. Systems and synthetic biology techniques are critical tools for addressing these problems. Understanding the biology of this organism will allow us to develop new treatment modalities, both against *S. mutans* and other streptococcal pathogens. Other infections and diseases caused by streptococci include pneumoniae, meningitis, and strep throat. 
+The long-term goal of the lab is to understand how [*Streptococcus mutans*](https://en.wikipedia.org/wiki/Streptococcus_mutans) causes tooth decay. This includes addressing which genes are essential for pathogenesis, and what is the role of other bacteria in promoting or reducing *S. mutans* colonization. Systems and synthetic biology techniques are critical tools for addressing these problems. Our projects occur at three levels, that we call the information, discovery, and molecular stages. We gather the 'information' by forward genetic screens, and then we validate interesting findings at the 'discovery' stage. Exceptional findings then move towards mechanistic studies at the 'molecular' stage. Ultimately, understanding the biology of this organism will allow us to develop new treatment modalities, both against *S. mutans* and other streptococcal pathogens. We have several collaborations with chemists who are actively exploring antimicrobials both against S. mutans and other patogens. 
+
+<img src='/images/approach.png' width="90%">
 
 ## The Tools
 
-We use a variety of methods, both traditional and modern, to understand how *Streptococcus mutans* causes tooth decay. These tools include, next generation sequencing, electron microscopy, forward genetics (transposon sequencing), CRISPR technologies and fluorescence microscopy. 
+We use a variety of methods, both traditional and modern, to understand how *Streptococcus mutans* causes tooth decay. These tools include, next generation sequencing, electron microscopy, forward genetics (transposon sequencing), CRISPR technologies and fluorescence microscopy. Just like everyone else, we also want to apply artifical intelligence approaches to super charge our research.
 
 <img src='/images/Tools.png' width="90%">
-
-## The Projects
-
-### Identifying essential genes critical for the colonization and persistence of bacterial pathogens
-
-Essential genes are those that are absolutely required for the survival of bacteria. Knowledge of essential genes is important for two main reasons, 1) they highlight fundamental processes of bacteria, and 2) they may offer targets for new antimicrobial therapeutics. We leverage genome-wide functional genomics tools to identify and study genes that are critical for *S. mutans* survival; these techniques including transposon sequencing and CRISPR interference. 
-
-Funding - NASA Space Biology Program
-
-### Characterization of novel essential genes
-
-Microbial essential genes can be broadly categorized into three pathways: processing of genetic information, energy production, and maintenance of the cell envelope. However, contained within the essential genome are a number of genes for hypothetical proteins for which virtually nothing is known regarding their biology. Work related to identifying the function of some of these genes has already begun, and we have made good progress addressing the functions of an essential transcriptional regulator. Addressing the functions of these as yet undetermined genes could be critical for developing new therapies against pathogens. 
-
-Funding - NIDCR R03
-
-### Precision editing of the oral microbiome
-
-Our lab is interested in applying CRISPRi and related technologies to discover anti-*S. mutans* therapeutics. We are currently working on an antimicrobial that represses essential gene expression to eliminate the growth of *S. mutans*. 
-
-Funding - Colgate CARE award
