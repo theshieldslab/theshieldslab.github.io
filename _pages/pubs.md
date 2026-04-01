@@ -9,6 +9,10 @@ author_profile: true
 <script type='text/javascript' src='https://d1bxh8uas1mnw7.cloudfront.net/assets/embed.js'></script>
 ### 2026
 ---
+[Genomic instability and biofilm determinants in Streptococcus mutans: insights from a sequence-defined arrayed transposon library](https://www.biorxiv.org/content/biorxiv/early/2026/03/26/2026.03.25.714184.full.pdf)\
+Ana Karen Solano Morales, Cazano E, Pirani C, Jones G, Goode A, Walker AR, Sperduto A, Dwivedi B, Bantha P, Peter SD, McLellan LK, Alam MA, & Shields RC\
+[bioRxiv](https://www.biorxiv.org/)
+
 [Late-stage diversification of the rifamycin core via click chemistry to target deadly pathogens](https://www.mdpi.com/1420-3049/31/5/847)\
 Beeser L, Armstrong D, Fullerton MS, Beasley I, Treadway W, Nikkel C, Glenn B, Mills C, Ho ML, Budhathoki S, Parchman J, Holdiness R, Smith J, Hodge Z, Dragan AL, Alam MA, Shields RC, Voth DE, & Nawarathne IN\
 [Molecules](https://www.mdpi.com/journal/molecules)
